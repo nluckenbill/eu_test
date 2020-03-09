@@ -3,6 +3,7 @@
 <div class="post-preview">
     <a href="{{ .Permalink }}">
         <h2 class="post-title">
+            <img src={{.Params.image}}>
             {{ .Title }}
         </h2>
 	{{with .Params.subtitle }}
