@@ -1,4 +1,4 @@
-baseurl = "https://eu-test.netlify.com"
+baseurl = "https://zhaohuabing.com"
 title = "Test Blog"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
