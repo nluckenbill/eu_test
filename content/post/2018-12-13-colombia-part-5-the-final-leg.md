@@ -5,7 +5,7 @@ type: post
 date: -001-11-30T00:00:00+00:00
 draft: true
 url: /?p=2999
-images: http://eu-test.netlify.com/post//images/Mocoa-to-San-Francisco-Colombia-20.jpg
+image: https://eu-test.netlify.com/post/images/Mocoa-to-San-Francisco-Colombia-20.jpg
 categories:
   - Colombia
   - Motorcycle

@@ -3,7 +3,7 @@ title: 'Colombia Part 4: Bogota and the Tatacoa Desert'
 author: Justin Lewis
 type: post
 date: 2017-11-30T20:04:28+00:00
-images: http://eu-test.netlify.com/post/images/Tatacoa-Desert-Colombia-2.jpg
+image: "../post/images/Tatacoa-Desert-Colombia-2.jpg"
 categories:
   - Colombia
   - Motorcycle
@@ -14,8 +14,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 With a majority of Colombia behind us there were still a couple of areas that needed to be explored. Most travelers didn’t have anything good to say about the capital city of Bogota BUT in order to verify we’d have to experience it ourselves – plus big Cities always give us the opportunity to resupply, tune up the bikes, and feel like normal people for a change. From Bogota we wanted to head south into the Tatacoa Desert where we’d heard there was some amazing off-roading before sliding on over to the Spanish Colonial town of Popayan (not quite sure why but we heard it was cool). Good times to come!
 
@@ -23,9 +21,8 @@ Leaving the coffee region wasn’t easy but after almost three weeks it was fina
 
 We spent the rest of our days in Bogota enjoying Kyle’s cooking, eating more empanadas than one man can count, enjoying the nightlife, and taking a really cool graffiti tour downtown.&nbsp; Although other travelers had given the HUGE city (80km from end-to-end and almost 10.2 million people) a bad rap, we rather enjoyed it. The neighborhood we stayed in, Cedritos, was fairly affluent (never seen so many designer dogs in our lives), the people were intelligent and there was TONS of ENERGY (nothing out of the norm for Colombia). Oh yeah and Mitch was able to fully repair the KLR thanks to the Guys at [Motorrad Bogota][1]!! The only question now was if he would ever feel comfortable in big city traffic again?!
 
-## Test
-![Test image](/content/post/images/Tatacoa-Desert-Colombia-2.jpg)
-<img src="/content/post/images/Tatacoa-Desert-Colombia-2.jpg" alt="test 2">
+
+![Test image](../post/images/Tatacoa-Desert-Colombia-2.jpg)
 
 <div class="ngg-gallery-singlepic-image " style="">
   <a href="http://www.elevationupgrade.com/wp-content/gallery/colombia-part-4/P1050296-2.jpg"

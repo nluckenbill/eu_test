@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-08-08T16:45:39+00:00
 url: /colombia-part-1-escaping-the-heat/
-images: http://eu-test.netlify.com/post//images/Taganga-Colombia-1-1.jpg
+image: https://eu-test.netlify.com/post/images/Taganga-Colombia-1-1.jpg
 categories:
   - Colombia
   - Motorcycle

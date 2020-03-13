@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2014-10-29T17:08:38+00:00
 url: /deluge-lake-east-vail/
-images: http://eu-test.netlify.com/post//images/Deluge-Lake-Hike-18.jpg
+image: https://eu-test.netlify.com/post/images/Deluge-Lake-Hike-18.jpg
 categories:
   - Backpacks
   - Colorado

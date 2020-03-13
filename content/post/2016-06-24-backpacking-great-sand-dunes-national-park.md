@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-06-25T00:38:40+00:00
 url: /backpacking-great-sand-dunes-national-park/
-images: http://eu-test.netlify.com/post//images/Great-Sand-Dunes-NP-Backpack-5-e1476585939654.jpg
+image: https://eu-test.netlify.com/post/images/Great-Sand-Dunes-NP-Backpack-5-e1476585939654.jpg
 categories:
   - Backpacks
   - Colorado

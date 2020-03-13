@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-03-20T18:57:23+00:00
 url: /guatemala-part-1-hello-rain-nice-to-meet-you/
-images: http://eu-test.netlify.com/post//images/The-Road-to-Xela-1.jpg
+image: https://eu-test.netlify.com/post/images/The-Road-to-Xela-1.jpg
 categories:
   - Guatemala
   - Motorcycle
