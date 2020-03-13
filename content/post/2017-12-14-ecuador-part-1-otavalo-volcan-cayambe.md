@@ -5,7 +5,7 @@ type: post
 date: -001-11-30T00:00:00+00:00
 draft: true
 url: /?p=3026
-images: https://eu-test.netlify.com/post//images/Laguna-de-Cuicocha-Pano-Otavalo-Ecuador.jpg
+images: http://eu-test.netlify.com/post//images/Laguna-de-Cuicocha-Pano-Otavalo-Ecuador.jpg
 categories:
   - Ecuador
   - Motorcycle

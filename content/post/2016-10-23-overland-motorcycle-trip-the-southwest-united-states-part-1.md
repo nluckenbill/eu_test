@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-10-23T22:51:39+00:00
 url: /overland-motorcycle-trip-the-southwest-united-states-part-1/
-images: https://eu-test.netlify.com/post//images/Wolf-Creek-Pass-1.jpg
+images: http://eu-test.netlify.com/post//images/Wolf-Creek-Pass-1.jpg
 categories:
   - Motorcycle
   - Overland

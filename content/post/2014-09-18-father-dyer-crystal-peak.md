@@ -4,7 +4,7 @@ author: Tuan Bui
 type: post
 date: 2014-09-18T21:36:51+00:00
 url: /father-dyer-crystal-peak/
-images: https://eu-test.netlify.com/post//images/20140830-DSC00740.jpg
+images: http://eu-test.netlify.com/post//images/20140830-DSC00740.jpg
 categories:
   - Backpacks
   - Colorado

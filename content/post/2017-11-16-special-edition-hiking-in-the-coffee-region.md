@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-11-16T22:07:40+00:00
 url: /special-edition-hiking-in-the-coffee-region/
-images: https://eu-test.netlify.com/post//images/P1050220.jpg
+images: http://eu-test.netlify.com/post//images/P1050220.jpg
 categories:
   - Colombia
   - Motorcycle

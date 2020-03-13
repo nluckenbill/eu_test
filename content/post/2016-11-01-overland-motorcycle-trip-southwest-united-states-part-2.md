@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-11-01T15:42:16+00:00
 url: /overland-motorcycle-trip-southwest-united-states-part-2/
-images: https://eu-test.netlify.com/post//images/Grand-Canyon-North-Rim-9-2.jpg
+images: http://eu-test.netlify.com/post//images/Grand-Canyon-North-Rim-9-2.jpg
 categories:
   - Motorcycle
   - Overland
