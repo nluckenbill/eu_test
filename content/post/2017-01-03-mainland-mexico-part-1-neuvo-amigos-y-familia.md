@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-01-03T14:52:05+00:00
 url: /mainland-mexico-part-1-neuvo-amigos-y-familia/
-image: /images/Sayulita-5.jpg
+images: https://eu-test.netlify.com/post//images/Sayulita-5.jpg
 categories:
   - Mexico
   - Motorcycle

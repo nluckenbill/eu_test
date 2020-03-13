@@ -4,7 +4,7 @@ author: Tuan Bui
 type: post
 date: 2014-08-20T21:13:30+00:00
 url: /mount-massive/
-image: /images/https://www.elevationupgrade.com/wp-content/uploads/2014/08/WP_20140810_018.jpg
+images: https://eu-test.netlify.com/post//images/https://www.elevationupgrade.com/wp-content/uploads/2014/08/WP_20140810_018.jpg
 categories:
   - Colorado
   - Day Hikes

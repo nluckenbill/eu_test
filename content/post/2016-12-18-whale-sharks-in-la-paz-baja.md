@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-12-18T22:37:44+00:00
 url: /whale-sharks-in-la-paz-baja/
-image: /images/GOPR1895.JPG
+images: https://eu-test.netlify.com/post//images/GOPR1895.JPG
 categories:
   - Mexico
   - Motorcycle

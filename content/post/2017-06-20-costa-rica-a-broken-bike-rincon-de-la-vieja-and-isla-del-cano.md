@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-06-20T20:17:39+00:00
 url: /costa-rica-a-broken-bike-rincon-de-la-vieja-and-isla-del-cano/
-image: /images/Pano-2-Rincon-de-la-Vieja-Costa-Rica-Pano.jpg
+images: https://eu-test.netlify.com/post//images/Pano-2-Rincon-de-la-Vieja-Costa-Rica-Pano.jpg
 categories:
   - Costa Rica
   - Motorcycle

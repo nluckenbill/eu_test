@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2015-12-01T04:42:31+00:00
 url: /samoa-a-week-in-the-south-pacific/
-image: /images/Faimafili-Village-9.jpg
+images: https://eu-test.netlify.com/post//images/Faimafili-Village-9.jpg
 categories:
   - Samoa
   - South Pacific

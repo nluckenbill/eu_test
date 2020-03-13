@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2015-08-17T10:41:25+00:00
 url: /heli-boarding-new-zealand-and-mt-cook-national-park/
-image: /images/Heli-boarding-19.jpg
+images: https://eu-test.netlify.com/post//images/Heli-boarding-19.jpg
 categories:
   - Day Hikes
   - Heli-boarding

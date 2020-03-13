@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-07-05T13:01:47+00:00
 url: /panama-sailing-the-san-blas-islands/
-image: /images/Sailing-the-San-Blas-Islands-Wild-Card-Panama-44.jpg
+images: https://eu-test.netlify.com/post//images/Sailing-the-San-Blas-Islands-Wild-Card-Panama-44.jpg
 categories:
   - Motorcycle
   - Overland

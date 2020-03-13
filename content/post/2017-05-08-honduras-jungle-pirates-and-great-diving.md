@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-05-08T22:07:37+00:00
 url: /honduras-jungle-pirates-and-great-diving/
-image: /images/Utila-Honduras-7.jpg
+images: https://eu-test.netlify.com/post//images/Utila-Honduras-7.jpg
 categories:
   - Honduras
   - Motorcycle

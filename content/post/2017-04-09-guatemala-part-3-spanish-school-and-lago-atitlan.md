@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-04-09T16:00:22+00:00
 url: /guatemala-part-3-spanish-school-and-lago-atitlan/
-image: /images/San-Marco-Lago-Atitlan-7.jpg
+images: https://eu-test.netlify.com/post//images/San-Marco-Lago-Atitlan-7.jpg
 categories:
   - Guatemala
   - Motorcycle

@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-08-24T14:39:53+00:00
 url: /colombia-part-2-santa-cruz-de-mompox-and-san-gil/
-image: /images/Santa-Cruz-de-Mompox-Colombia-36.jpg
+images: https://eu-test.netlify.com/post//images/Santa-Cruz-de-Mompox-Colombia-36.jpg
 categories:
   - Colombia
   - Motorcycle

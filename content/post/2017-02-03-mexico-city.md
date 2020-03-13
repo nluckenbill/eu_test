@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-02-03T14:06:14+00:00
 url: /mexico-city/
-image: /images/Teotihuacan-Pano.jpg
+images: https://eu-test.netlify.com/post//images/Teotihuacan-Pano.jpg
 categories:
   - Mexico
   - Motorcycle
