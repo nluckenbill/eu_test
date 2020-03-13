@@ -3,7 +3,7 @@ title: 'Colombia Part 4: Bogota and the Tatacoa Desert'
 author: Justin Lewis
 type: post
 date: 2017-11-30T20:04:28+00:00
-images: http://eu-test.netlify.com/post//images/Tatacoa-Desert-Colombia-2.jpg
+images: http://eu-test.netlify.com/post/images/Tatacoa-Desert-Colombia-2.jpg
 categories:
   - Colombia
   - Motorcycle
@@ -22,6 +22,10 @@ With a majority of Colombia behind us there were still a couple of areas that ne
 Leaving the coffee region wasn’t easy but after almost three weeks it was finally time. Swerving, weaving, and inhaling diesel fumes were something we’d become accustomed to navigating through some other BIG Latin American Cities (cough, cough Mexico City) so we thought we had this in the bag. Things were flowing smooth UNTIL Mitch got a little aggressive and tried to shoot the gap between two rather large Colombian semi-trucks. Well, the back right truck wasn’t having it and casually gave Mitch’s back right pannier a love tap pushing him into the wheel-well of the other truck to his front left…NO BUENO!! Not knowing how he wound up on the high side of his bike (and outside of the wheel-well), he looked around noticing that he had about 100 eyes on him and as quickly as he could pulled the bike up-right and wobbled his way to the nearest gas station…something’s not right here!! With his steering bearings FUCKED and dash board SHATTERED, Mitch limped to home base praying there was a solution for todays catastrophy.<!--more-->
 
 We spent the rest of our days in Bogota enjoying Kyle’s cooking, eating more empanadas than one man can count, enjoying the nightlife, and taking a really cool graffiti tour downtown.&nbsp; Although other travelers had given the HUGE city (80km from end-to-end and almost 10.2 million people) a bad rap, we rather enjoyed it. The neighborhood we stayed in, Cedritos, was fairly affluent (never seen so many designer dogs in our lives), the people were intelligent and there was TONS of ENERGY (nothing out of the norm for Colombia). Oh yeah and Mitch was able to fully repair the KLR thanks to the Guys at [Motorrad Bogota][1]!! The only question now was if he would ever feel comfortable in big city traffic again?!
+
+## Test
+![Test image](/content/post/images/Tatacoa-Desert-Colombia-2.jpg)
+<img src="/content/post/images/Tatacoa-Desert-Colombia-2.jpg" alt="test 2">
 
 <div class="ngg-gallery-singlepic-image " style="">
   <a href="http://www.elevationupgrade.com/wp-content/gallery/colombia-part-4/P1050296-2.jpg"
