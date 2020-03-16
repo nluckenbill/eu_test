@@ -4,7 +4,7 @@ author: Nathan Luckenbill
 type: post
 date: 2014-07-22T22:16:25+00:00
 url: /highland-mary-lakes/
-image: verde_lakes_edited.jpg
+image: highland-mary-lakes/verde_lakes_edited.jpg
 categories:
   - Backpacks
   - Colorado
