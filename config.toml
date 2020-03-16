@@ -30,9 +30,9 @@ home = ["HTML", "RSS", "Algolia"]
 
   # algolia site search
   algolia_search = true
-  algolia_appId = ""
-  algolia_indexName = ""
-  algolia_apiKey = ""
+  algolia_appId = "QM4X87GPNK"
+  algolia_indexName = "elevationUpgrade-test"
+  algolia_apiKey = "5b5c5d76122e1f1372d203b2db11ea82"
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
