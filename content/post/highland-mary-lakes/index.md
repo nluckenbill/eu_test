@@ -4,7 +4,7 @@ author: Nathan Luckenbill
 type: post
 date: 2014-07-22T22:16:25+00:00
 url: /highland-mary-lakes/
-image: https://eu-test.netlify.com/post/images/verde_lakes_edited.jpg
+image: verde_lakes_edited.jpg
 categories:
   - Backpacks
   - Colorado
@@ -21,6 +21,8 @@ format: image
 For years now, Justin and I have complained to each other, after the fact of course, that we didn&#8217;t do a backpacking trip over the extended 4<sup>th</sup> of July weekend. Well, this year we decided to change that and really maximize the long weekend. After calling the ranger station in Silverton to get the latest scoop on the conditions, we decided on a 10 mile loop of the Highland Mary Lakes in the Weminuche Wilderness over Ice Lakes Basin due to the latter being mostly frozen still. To add some icing to the cake we found out rafting was in order for the July 4th festivities with some of Sara’s friend in Durango.
 
 <!--more-->
+
+{{< img src="verde_lakes_edited.jpg" alt="test 123" >}}
 
 Justin, Mike, Sara and I headed out for Durango on Thursday night. We left Denver at around 7 pm hoping to avoid I-70 traffic by taking 285. Well, sure enough, just before Conifer we hit snail speed traffic, quite slower than ludicrous speed. After an hour of going nowhere, we decided to stop at Qdoba for some deliciousness. In hindsight, this was a poor decision. Four people trapped in traffic for hours after Qdoba is simply &#8211; terrible.  Thanks to an awesome reroute (shaving at least 30 minutes off of traffic) by my co-pilot, Google Maps, we made it to Buena Vista in 4.5 hours, normally a 2.5 hour drive. By this time, we were all pretty tired and decided to pitch a tent somewhere instead of getting into Durango at around 4 am. We found a nice cozy tent spot in the parking lot at the Mt. Princeton trailhead.
 
