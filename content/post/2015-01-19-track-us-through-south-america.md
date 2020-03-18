@@ -10,12 +10,10 @@ tags:
   - gear
 
 ---
-While on the mountain, Tuan and I will be carrying a <a href="http://www.inreachdelorme.com/product-info/inreachse.php" target="_blank">Delorme InReach </a>personal locator. If you like to see exactly where we are on the mountain and if we&#8217;re doing OK use the link below:
+While on the mountain, Tuan and I will be carrying a Delorme InReach personal locator. If you like to see exactly where we are on the mountain and if we’re doing OK use the link below:
 
-<a title="Track us!" href="https://share.delorme.com/elevationupgrade" target="_blank">Track us!</a>
+Track us!
 
 The above website will show you our exact location and everyday Tuan and I will be sending out preset status messages on our health. I hope that by taking this on our trip we can help put our friends and families minds at ease!
 
 -Nathan
-
-&nbsp;
