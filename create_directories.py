@@ -3,8 +3,7 @@ import os
 import re
 import glob
 import shutil
-import colorama
-from colorama import Fore
+
 
 # Search directory for markdown files and new directories
 dir = "C:\\Users\\Nate\\Documents\\WebSites\\eu_test\\content\\post"
@@ -57,8 +56,8 @@ def moveMdFiles():
 
 
 def main():
-    createDirectories()
-#    moveMdFiles()
+#    createDirectories()
+    moveMdFiles()
 
 if __name__ == "__main__":
     main()
