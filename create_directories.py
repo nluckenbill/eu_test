@@ -3,11 +3,13 @@ import os
 import re
 import glob
 import shutil
+import colorama
+from colorama import Fore
 
 # Search directory for markdown files and new directories
-dir = "C:\\test"
+dir = "C:\\Users\\Nate\\Documents\\WebSites\\eu_test\\content\\post"
 # remove dashes and numbers in fron of the text
-regex = r"^[-\d\s]+"
+
 
 # Set working directory
 os.chdir(dir)
@@ -15,17 +17,21 @@ os.chdir(dir)
 # Collect md file names and cleanb= up name
 def createDirectories():
     for files in glob.glob("*.md"):
-        global regex
+        regex = r"^[-\d\s]+"
         new_md_name = re.sub(regex, "", files, 0, re.MULTILINE)
-    #    print(new_md_name)
 
     # Make directories from md file names
-        dir = "C:\\test\\"
-        regex = r"(.md)"
+        dir = "C:\\Users\\Nate\\Documents\\WebSites\\eu_test\\content\\post\\"
+        regex = r".md"
         path = dir + new_md_name
         path = re.sub(regex, "", path, 0, re.MULTILINE)
-     #   print(path)
-        os.mkdir(path)
+        if not os.path.exists(path):
+            os.mkdir(path)
+            print("Directory ", path, " Created ")
+        else:
+            
+            print("Directory ", path, " already exists ")
+
 
 
 
@@ -36,11 +42,11 @@ def moveMdFiles():
         regex = r"^[-\d\s]+"
         folder_name = re.sub(regex, "", files, 0, re.MULTILINE)
         regex = r"(.md)"
-        folder_name = re.sub(regex, "", folder_name, 0, re.MULTILINE)
+        folder_name = re.sub(regex, "", folder_name, 0)
         print(folder_name)
         
         # Set dir directory
-        dir = "C:\\test\\"
+        dir = "C:\\Users\\Nate\\Documents\\WebSites\\eu_test\\content\\post\\"
        
        # Destination Directory
         dest_dir = dir + folder_name
@@ -52,7 +58,7 @@ def moveMdFiles():
 
 def main():
     createDirectories()
-    moveMdFiles()
+#    moveMdFiles()
 
 if __name__ == "__main__":
     main()
