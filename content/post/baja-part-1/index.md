@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-11-17T19:21:49+00:00
 url: /baja-part-1/
-image: https://eu-test.netlify.com/post/images/Bahia-de-Los-Angeles-Sunrise-at-Daggets-Camp-4.jpg
+image: Bahia-de-Los-Angeles-Sunrise-at-Daggets-Camp-4.jpg
 categories:
   - Mexico
   - Motorcycle

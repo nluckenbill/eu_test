@@ -3,7 +3,7 @@ title: 'Colombia Part 4: Bogota and the Tatacoa Desert'
 author: Justin Lewis
 type: post
 date: 2017-11-30T20:04:28+00:00
-image: "../post/images/Tatacoa-Desert-Colombia-2.jpg"
+image: "Tatacoa-Desert-Colombia-2.jpg"
 categories:
   - Colombia
   - Motorcycle
@@ -21,8 +21,6 @@ Leaving the coffee region wasn’t easy but after almost three weeks it was fina
 
 We spent the rest of our days in Bogota enjoying Kyle’s cooking, eating more empanadas than one man can count, enjoying the nightlife, and taking a really cool graffiti tour downtown.  Although other travelers had given the HUGE city (80km from end-to-end and almost 10.2 million people) a bad rap, we rather enjoyed it. The neighborhood we stayed in, Cedritos, was fairly affluent (never seen so many designer dogs in our lives), the people were intelligent and there was TONS of ENERGY (nothing out of the norm for Colombia). Oh yeah and Mitch was able to fully repair the KLR thanks to the Guys at [Motorrad Bogota][1]!! The only question now was if he would ever feel comfortable in big city traffic again?!
 
-
-![Test image](../post/images/Tatacoa-Desert-Colombia-2.jpg)
 
 
   {{< img src="P1050296-2.jpg" >}}
