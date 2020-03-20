@@ -25,29 +25,29 @@ Stay tuned for another blog post on how you can track Tuan and I on our quest th
 
 
 
-      {{< img src="sa-gear/IMG_0128.jpg" >}}
+      {{< img src="IMG_0128.jpg" >}}
                 
     
 
 
 
-      {{< img src="sa-gear/IMG_0130.jpg" >}}
+      {{< img src="IMG_0130.jpg" >}}
                 
     
 
 
 
-      {{< img src="sa-gear/IMG_0131.jpg" >}}
+      {{< img src="IMG_0131.jpg" >}}
                 
     
 
 
 
-      {{< img src="sa-gear/IMG_0132.jpg" >}}
+      {{< img src="IMG_0132.jpg" >}}
                 
     
 
 
 
-      {{< img src="sa-gear/WP_20150118_002.jpg" >}}
+      {{< img src="WP_20150118_002.jpg" >}}
                

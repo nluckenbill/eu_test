@@ -56,21 +56,21 @@ The majority of the hike will consist of walking up from the trail head towards 
   * Total Ascent: 1686 ft /513.8 m
 Lower Crystal Lake -> Father Dyer Peak (Summit)
 
-  {{< img src="father-dyer/20140830-DSC00621.jpg" >}}
+  {{< img src="20140830-DSC00621.jpg" >}}
 		      
 
 
 This section was definitely the most enjoyable part of our hike. We woke up around 6:00AM and cooked some Ramen noodles to test out the MSR Dragonfly stove. Stove worked wonderfully, Ramen wasnt too bad either. Nate splurged and picked up some Korean ones rather than the standard $.10 Maruchan packets. Since this was our first time doing what was considered a easy class 3 we decided to take our climbing helmets up as well. For the first hour it was just a basic trail. Once we got to the ridge things got a little more technical and that is where the trail disappears and we hadto find our own route up by pretty much staying on the ridge line the whole time.
 
 
-  {{< img src="father-dyer/20140830-DSC00664.jpg" >}}
+  {{< img src="20140830-DSC00664.jpg" >}}
 		      
 
 
 Scrambling up the rocky formations took us about another hour. We arrived on the summit around 9:30AM.
 
 
-  {{< img src="father-dyer/20140830-DSC00703.jpg" >}}
+  {{< img src="20140830-DSC00703.jpg" >}}
 		      
 
 
@@ -83,7 +83,7 @@ Father Dyer Peak -> Crystal Peak (Summit)
 The saddle between the two peaks is just a standard class 2 hike, no real scrambling involved.
 
 
-  {{< img src="father-dyer/20140830-DSC00685.jpg" >}}
+  {{< img src="20140830-DSC00685.jpg" >}}
 		      
 
 
@@ -98,7 +98,7 @@ Crystal Peak -> Trail Head
 The winds started picking up on the summit so we didnt stay for too long. Rather than looping back to Father Dyer we used Crystals NW ridge route back down to our camp. The descent was pleasant stroll, no large boulder fields to hop around on. The trail is pretty clearly marked and visible so you shouldnt get lost.
 
 
-  {{< img src="father-dyer/20140830-DSC00735.jpg" >}}
+  {{< img src="20140830-DSC00735.jpg" >}}
 		      
 
 
@@ -108,103 +108,103 @@ Once we got down we packed up and started for our decent back down the 4WD road.
 
 
 
-      {{< img src="father-dyer/20140830-DSC00621.jpg" >}}
+      {{< img src="20140830-DSC00621.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00627.jpg" >}}
+      {{< img src="20140830-DSC00627.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00635.jpg" >}}
+      {{< img src="20140830-DSC00635.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00660.jpg" >}}
+      {{< img src="20140830-DSC00660.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00664.jpg" >}}
+      {{< img src="20140830-DSC00664.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00669.jpg" >}}
+      {{< img src="20140830-DSC00669.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00674.jpg" >}}
+      {{< img src="20140830-DSC00674.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00675.jpg" >}}
+      {{< img src="20140830-DSC00675.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00676.jpg" >}}
+      {{< img src="20140830-DSC00676.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00685.jpg" >}}
+      {{< img src="20140830-DSC00685.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00693.jpg" >}}
+      {{< img src="20140830-DSC00693.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00703.jpg" >}}
+      {{< img src="20140830-DSC00703.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00706.jpg" >}}
+      {{< img src="20140830-DSC00706.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00711.jpg" >}}
+      {{< img src="20140830-DSC00711.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00735.jpg" >}}
+      {{< img src="20140830-DSC00735.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00740.jpg" >}}
+      {{< img src="20140830-DSC00740.jpg" >}}
                 
     
 
 
 
-      {{< img src="father-dyer/20140830-DSC00746.jpg" >}}
+      {{< img src="20140830-DSC00746.jpg" >}}
                 
     
 

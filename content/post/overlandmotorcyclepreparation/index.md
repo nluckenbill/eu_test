@@ -23,14 +23,14 @@ We are far from experts but both have an INTENSE desire to learn what makes thes
 So how do two novices actually prep for a multi-month trip to Central and South America with zero actual plan or route? Planning what gear to pack, shots to get, and the overall logistics of a long haul trip were actually the familiar part due to Justin’s previous adventures. Where we were clueless was in the bike maintenance and preparation department. What do we need to do to make these babies overland ready? Luckily for us we had our good friends Dustin & Ben and their SWEET CLUB HOUSE. Over the summer we made mistake after mistake, learning by losing/stripping screws, forgetting how we took parts off, and through general clumsiness while putting our bikes back together. At the end of the day Ben passed us from motorcycle maintenance 101 to 102…now just to figure out where this handful of extra bolts go!
 
 
-  {{< img src="Intro-to-Overland-Trip/Trip-Preperation-1.jpg" >}}
+  {{< img src="Trip-Preperation-1.jpg" >}}
 		      
 
 
 Our trusty steeds are comprised of the little Yamaha XT 225 (La Tortuga) and the beastly Kawasaki KLR 650 (El Tractor). Both bikes are proven and reliable. The KLR had remained unchanged from 1987 to 2007 and is no stranger to overland adventure travel. The XT 225 on the other hand, most people would laugh at. It’s small and slow and typically classified as a beginner or kid’s bike. In other words, it’s perfect for Justin as he is no goliath of a human.
 
 
-  {{< img src="Intro-to-Overland-Trip/Trip-Preperation-2.jpg" >}}
+  {{< img src="Trip-Preperation-2.jpg" >}}
 		      
 
 
@@ -40,7 +40,7 @@ Yamaha XT 225  
 Mitch’s bike was kitted out for an overland trip fairly well when he bought it, while Justin’s was bone stock. The first order of business was distance. While La Tortuga achieves outstanding gas mileage (approx. 70 mpg) the 2.1-gallon tank was no match for the large tank of the KLR, and was quickly replaced with a Clarke 4.1-gallon tank. Next up was storage. It would have been nice to have locking storage, but the extra weight simply didn’t seem necessary. A set of Ortlieb dry bags (on a set of Happy Trails pannier racks) and one small Wolfman Luggage duffel bag would be the pack mule for the trip. For anyone who knows Justin camera gear was essential, and it needed to be secure. A pelican case mounted to the tail rack would do the job!
 
 
-  {{< img src="Intro-to-Overland-Trip/Trip-Preperation-6.jpg" >}}
+  {{< img src="Trip-Preperation-6.jpg" >}}
 		      
 
 
@@ -72,14 +72,14 @@ Without going into the technical details of our remaining gear too much it is co
   Mitch’s Gear
 
 
-  {{< img src="Intro-to-Overland-Trip/Trip-Preperation-4.jpg" >}}
+  {{< img src="Trip-Preperation-4.jpg" >}}
 		      
 
 
   Justin’s Gear
 
 
-  {{< img src="Intro-to-Overland-Trip/Trip-Preperation-5.jpg" >}}
+  {{< img src="Trip-Preperation-5.jpg" >}}
 		      
 
 
@@ -89,55 +89,55 @@ Without going into the technical details of our remaining gear too much it is co
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-1.jpg" >}}
+      {{< img src="Trip-Preperation-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-2.jpg" >}}
+      {{< img src="Trip-Preperation-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-3.jpg" >}}
+      {{< img src="Trip-Preperation-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-4.jpg" >}}
+      {{< img src="Trip-Preperation-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-5.jpg" >}}
+      {{< img src="Trip-Preperation-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-6.jpg" >}}
+      {{< img src="Trip-Preperation-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-7.jpg" >}}
+      {{< img src="Trip-Preperation-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Trip-Preperation-8.jpg" >}}
+      {{< img src="Trip-Preperation-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="Intro-to-Overland-Trip/Wolf-Creek-Pass-2.jpg" >}}
+      {{< img src="Wolf-Creek-Pass-2.jpg" >}}
                 
     
 

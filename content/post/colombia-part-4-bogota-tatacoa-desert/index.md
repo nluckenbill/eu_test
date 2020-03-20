@@ -25,32 +25,32 @@ We spent the rest of our days in Bogota enjoying Kyle’s cooking, eating more e
 ![Test image](../post/images/Tatacoa-Desert-Colombia-2.jpg)
 
 
-  {{< img src="colombia-part-4/P1050296-2.jpg" >}}
+  {{< img src="P1050296-2.jpg" >}}
 		      
 
 
 Thankfully the Boys got out of Bogota unscathed, next stop the Tatacoa Desert! The entrance to the desert was unbelievable with a few bridge crossings, and our favorite terrain, sand! The plan was to camp until we ran across a couple locals building what appeared to be a gringo resort in the middle of the desert…we pulled in and our first question (obviously) was if they had any cold beer?! After taking care of the essentials, the proprietor offered us a spot to camp under one of his half-built shanty’s. Cuanto vale, we asked?? His only response was “tranquilo” a word that we’ve learned to hate from the locals when we are trying to get a straight answer. It’s similar to the “Indian head nod”. Well with the assumption that since we were using our own camping gear and staying in a half-built structure, it couldn’t be that expensive, right?! WRONG! Waking up the next morning at 5am, (they started work before the sun came up) full of bug bites and sweating our asses off (who woulda thought the desert would be HOT?!) we once again confronted the owner to see how much he wanted to camp on his property…Hmmmm how about 100,000 pesos (the equivalent of about $33 USD)? Are you fucking kidding us?! Not even the nicest of hostels would even dream of charging that price. Although 99% of Colombians are absolutely amazing this guy broke the mold…Mitch begged and bartered, listing the details mentioned above and finally got the guy down to 70K (or $23 USD). Lesson learned, next time we find our own camp spot!! 
 
 
-  {{< img src="colombia-part-4/Tatacoa-Desert-Colombia-12.jpg" >}}
+  {{< img src="Tatacoa-Desert-Colombia-12.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-4/Tatacoa-Desert-Colombia-7.jpg" >}}
+  {{< img src="Tatacoa-Desert-Colombia-7.jpg" >}}
 		      
 
 
 Leaving the campsite, we toured the desert by moto, what a beautiful place! The only issue was the heat! Over lunch we decided to make a push to Popayan which was located in the mountains and clearly had a more comfortable climate.
 
 
-  {{< img src="colombia-part-4/Tatacoa-Desert-Colombia-15.jpg" >}}
+  {{< img src="Tatacoa-Desert-Colombia-15.jpg" >}}
 		      
 
 
 Now for the drive, THE DRIVE! From Nieva (just outside of the Tatacoa), MAPS.ME – our trusted GPS system – took us up and over the Cordillera Central. It was 180+ KM of a partially constructed unfinished gravely, rocky road, but boy was it an AMAZING DRIVE! Although we didn’t spend more than 20 minutes on an ACTUAL road we had a blast meandering through the mountains experiencing all forms of weather and climate.
 
 
-  {{< img src="colombia-part-4/The-Road-from-the-Tatacoa-Desert-to-Popayan-Colombia-1.jpg" >}}
+  {{< img src="The-Road-from-the-Tatacoa-Desert-to-Popayan-Colombia-1.jpg" >}}
 		      
 
 

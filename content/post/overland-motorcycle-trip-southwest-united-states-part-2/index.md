@@ -23,7 +23,7 @@ Waking up early, we mounted our steads and headed towards Wire Pass on HWY 89 to
 
 
 
-        {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-4.jpg" >}}
+        {{< img src="Wire-Pass-Buckskin-Gulch-4.jpg" >}}
 		      
       
 
@@ -34,7 +34,7 @@ Justin dropped the camera and ran over to help Mitch get the bike off his leg. Q
 
 
 
-    {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-6.jpg" >}}
+    {{< img src="Wire-Pass-Buckskin-Gulch-6.jpg" >}}
 		      
   
 
@@ -43,14 +43,14 @@ Safely across the wash, the Boys drove a couple more miles to the Wire Pass trai
 
 
 
-        {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-14.jpg" >}}
+        {{< img src="Wire-Pass-Buckskin-Gulch-14.jpg" >}}
 		      
       
 
 Along the trail, we met several interesting people. An accountant from Iowa and his girlfriend, and Tim from Tucson who was hiking with his son. After the hike, we had a lengthy conversation with Tim about how his cousin had done a very similar trip the prior year. The only difference was that they were in a Honda CRV (Destination South). We picked up several good pointers – 1) Language school in Mexico could be the most beneficial thing we do 2) If you have a disagreement with your tow truck driver don’t let them ANYWHERE NEAR your gas tank, or you may wind up with sugar in it 3) Peruvian women are seductive and will quite certainly have you yearning for a return trip 4) If you trigger your Delorme InReach in the Bolivian Salt Flats you’ll have 20 Federales surrounding you in no time. We exchanged information with Tim (which we subsequently lost – sorry Tim) and continued down the gravel road with a final destination of the North Rim Grand Canyon.
 
 
-      {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-16.jpg" >}}
+      {{< img src="Wire-Pass-Buckskin-Gulch-16.jpg" >}}
 		      
     
 
@@ -65,7 +65,7 @@ After a total of 30 miles of dirt, we ran dead into HWY 89A before making a hard
 
 
 
-        {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-2.jpg" >}}
+        {{< img src="Grand-Canyon-North-Rim-2.jpg" >}}
 		      
       
 
@@ -73,7 +73,7 @@ Entering the park the following morning, we headed straight for the backcountry 
 
 
 
-        {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-8.jpg" >}}
+        {{< img src="Grand-Canyon-North-Rim-8.jpg" >}}
 		      
       
 
@@ -83,7 +83,7 @@ Entering the park the following morning, we headed straight for the backcountry 
 
 
 
-    {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-10.jpg" >}}
+    {{< img src="Grand-Canyon-North-Rim-10.jpg" >}}
 		      
   
 
@@ -93,7 +93,7 @@ Entering the park the following morning, we headed straight for the backcountry 
 Long after dark, after filling our gullets with mac n’ cheese (sensing a theme yet?), pepperoni, and some local vegetables, we stepped out under the full moon (or damn close to it) and wandered back over to the rim. What we saw was something that could only be imagined, like a Vinny Van Gogh painting. The moon shined brightly above the canyon, casting its shadows deep into the various crags and crevasses.
 
 
-      {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-12.jpg" >}}
+      {{< img src="Grand-Canyon-North-Rim-12.jpg" >}}
 		      
     
 
@@ -114,203 +114,203 @@ Thoroughly rested, we woke up early and headed back to the restaurant for some m
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-North-Timp-Pano.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-North-Timp-Pano.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-1.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-1.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-2.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-2.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-3.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-3.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-4.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-4.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-5.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-5.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-6.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-6.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-7.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-7.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-8.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-8.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-9.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-9.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-10.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-10.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-11.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-11.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-12.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-12.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-13.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-13.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-14.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-14.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-15.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-15.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-17.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-17.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-1.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-1.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-2.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-2.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-3.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-3.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-4.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-4.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-5.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-5.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-6.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-6.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-7.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-7.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-8.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-8.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-9.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-9.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-10.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-10.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-11.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-11.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-12.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-12.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-13.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-13.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-14.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-14.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-15.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-15.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Wire-Pass-Buckskin-Gulch-16.jpg" >}}
+          {{< img src="Wire-Pass-Buckskin-Gulch-16.jpg" >}}
                 
         
 
 
 
-          {{< img src="overland-trip-us-part-2/Grand-Canyon-North-Rim-9-2.jpg" >}}
+          {{< img src="Grand-Canyon-North-Rim-9-2.jpg" >}}
                

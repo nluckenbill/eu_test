@@ -24,7 +24,7 @@ format: image
   The road was as slick as snot from the past three days of nonstop rain but it was time to man up and ride through it (plus we really had no other option as our lease was up on the AirBnB). The dirt had turned to a thick pasty clay providing zero traction for our tired and worn tires, but with a break in the rain and our gear (all slightly damp) loaded we decide to make a run for it…Guatemala here we come!! We had big things planned…Tikal, Semuc Champey and Zephyr Lodge, Spanish School in Xela, as well as some friends and family visiting…Guatemala, you better not disappoint!
 
 
-  {{< img src="guatemala-part-1/Lanquin-1.jpg" >}}
+  {{< img src="Lanquin-1.jpg" >}}
 		      
 
 
@@ -34,21 +34,21 @@ The 30 minute ride to the border from San Ignacio was smoother than Justin’s c
 Back on the road, we headed directly towards Flores and were immediately greeted by torrential down pours. We aren’t talking about a Sunday afternoon shower here…mother nature really decided to take advantage of us here – Mitch’s visor was completely fogged over, and Justin had enough water in his shoes to fill Lago (lake) Atilan. When the Boys pulled off about 17 KM short of the final destination it was quickly concluded that they should stop for the night at a local hotel. Sopping wet, cold, and exhausted from the last couple days in San Ignacio (what!? we were stuck inside so our only option was to make pina coladas/margaritas all day) we all immediately crashed and slept for the next 12+ hours!
 
 
-  {{< img src="guatemala-part-1/Tikal-1.jpg" >}}
+  {{< img src="Tikal-1.jpg" >}}
 		      
 
 
 The next day the sun finally showed it’s sweet sweet face and we drove to Tikal to see the ruins. After looking at the past couple ruins not really knowing what the hell was going on, we bit the bullet and hired a guide. We spent the next 3.5 hours wandering the massive site exploring various temples and pyramids. At points we were more distracted by the Guatemalan women then the ruins. Tikal, in comparison to the other sites we saw in Mexico, was massive! It was lush, green, and reminded us of the ruins back in [Palenque][1] (Mexico). The guide turned out to be a good idea after all as he told us stories about the area, pointed out wildlife, and showed us places we never would have found on our own.
 
 
-  {{< img src="guatemala-part-1/Great-Plaza-Tikal-Panorama.jpg" >}}
+  {{< img src="Great-Plaza-Tikal-Panorama.jpg" >}}
 		      
 
 
 Upon returning to our bikes Mitch noticed a business card on his bike from a fellow KLR 650 owner, these people gotta be cool if they were on a KLR! We meandered on over to the campsite in Tikal and quickly made friends. Skip and Rachel were from Australia and had driven across the U.S., and then on down to Latin America. In years past they had even shipped their bikes to South America and toured around before their bike exploded and the trip was cut short. They had some great insight into Latin America and gave us some good routes for the next day to Lanquin.
 
 
-  {{< img src="guatemala-part-1/Tikal-8.jpg" >}}
+  {{< img src="Tikal-8.jpg" >}}
 		      
 
 
@@ -57,7 +57,7 @@ The drive from Tikal to Lanquin wasn’t for the faint of heart. It consisted of
 Arriving in Lanquin we checked into Zephyr Lodge, which Gabe had been raving about for weeks, and for good reason. The hostel was situated deep in the jungle with an infinity pool and a hot tub. It was pure heaven. Most people come here specifically to visit Semuc Champey, but we actually never made it there. Shhhh don’t tell anyone. It rained nonstop during our stay and after being spoiled with the waterfalls in [Huasteca][2] we couldn’t be bothered to tour them in the rain. I guess we are slightly jaded.
 
 
-  {{< img src="guatemala-part-1/Lanquin-6.jpg" >}}
+  {{< img src="Lanquin-6.jpg" >}}
 		      
 
 
@@ -67,97 +67,97 @@ Next stop Xela for Spanish School!
 
 
 
-      {{< img src="guatemala-part-1/Tikal-1.jpg" >}}
+      {{< img src="Tikal-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-2.jpg" >}}
+      {{< img src="Tikal-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-4.jpg" >}}
+      {{< img src="Tikal-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-Panorama.jpg" >}}
+      {{< img src="Tikal-Panorama.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-6.jpg" >}}
+      {{< img src="Tikal-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-7.jpg" >}}
+      {{< img src="Tikal-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Great-Plaza-Tikal-Panorama.jpg" >}}
+      {{< img src="Great-Plaza-Tikal-Panorama.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Tikal-8.jpg" >}}
+      {{< img src="Tikal-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/The-Road-to-Lanquin-1.jpg" >}}
+      {{< img src="The-Road-to-Lanquin-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/The-Road-to-Lanquin-3.jpg" >}}
+      {{< img src="The-Road-to-Lanquin-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/The-Road-to-Lanquin-4.jpg" >}}
+      {{< img src="The-Road-to-Lanquin-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Lanquin-1.jpg" >}}
+      {{< img src="Lanquin-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Lanquin-4.jpg" >}}
+      {{< img src="Lanquin-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Lanquin-5.jpg" >}}
+      {{< img src="Lanquin-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/Lanquin-6.jpg" >}}
+      {{< img src="Lanquin-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="guatemala-part-1/The-Road-to-Xela-1.jpg" >}}
+      {{< img src="The-Road-to-Xela-1.jpg" >}}
                 
     
 

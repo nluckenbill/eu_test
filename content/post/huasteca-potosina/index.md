@@ -23,7 +23,7 @@ Exhausted from the hustle of the city we needed to get back to nature, and be im
 Off we went up and over, through and around multiple chains of mountains. The scenery changed from barren agave farms to wet, lush, green, forests. Snaking our way through the small villages, the biggest challenge was avoiding the plethora of cows, goats, small children, and dogs that had decided that the road was the best place to take their mid-afternoon nap…C’mon MAN!
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-1.jpg" >}}
+  {{< img src="Cascada-de-Tamul-1.jpg" >}}
 		      
 
 
@@ -35,7 +35,7 @@ We had an idea of what we wanted to get in to here but after speaking with Cesar
 By mid-morning the next day the five of us (Justin, Mitch, Cesar, Chai, & Martin) were standing at the top of our first waterfall ready to jump. Scanning our surroundings we were immersed in thick jungle backed by limestone cliffs, which plummeted to the turquoise rapids below with not another soul insight…Heaven on Earth?! Or damn close…Cesar jumped first, followed by Martin, Chai, and Mitch. Where’s Justin?? Oh, there he is…frozen, legs locked, atop the 26-foot waterfall. Had Justin’s brain forgot to have a pep-talk with his legs? They wanted to run and leap, but his brain stopped him dead in his tracks with everyone below. Psyching himself up, Justin finally made the leap, rolling down windows (of couse), before splashing into the refreshing water. “Why was he being such a pussy? That was easy”, Justin thought. It was game on!
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/G0050076-2.jpg" >}}
+  {{< img src="G0050076-2.jpg" >}}
 		      
 
 
@@ -46,7 +46,7 @@ While the rest of the team glided with ease Mitch dug deep, knees bent into each
 In the midst of the chaos the paddle was lost, never to be retrieved (we later found out this was the 4th paddle lost in this exact spot). Mitch hopped into Justin’s kayak and the Guys went tandem down the river for the remainder of the day, which ironically turned out to be the calmest section of the River. It was an adventure not soon to be forgotten with good friends in an amazing unspoiled place.
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-9.jpg" >}}
+  {{< img src="Micos-River-Huasteca-9.jpg" >}}
 		      
 
 
@@ -57,7 +57,7 @@ Cascada de Tamul
 First up was Cascada de Tamul, which would have been absolutely incredible if we hadn’t done it on a Saturday, with 6 bus loads of rude Mexican Tourist. We felt rushed through the entire experience, and our tour guide didn’t help. It was clear all they wanted to do was get us to the vantage point as quickly as possible, collect their pesos, and move on…FUCKERS. However, the boat ride in was stunning with the turquoise waters and thick green jungle surrounding us.  Once we reached the one and only vantage point (a rock in the middle of the river) we were again confronted with the masses. Justin finally secured a position at the front of the rock to get a couple photos but within seconds another group of shitheads had arrived and were also bustling for position. Mitch quickly turned around and as politely as he could, told them to wait their fucking turn. The whole experience was a little overwhelming but the Boys had to take the good with the bad. This was still better than a day in the office.
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-10.jpg" >}}
+  {{< img src="Cascada-de-Tamul-10.jpg" >}}
 		      
 
 Sotano de las Golondrinas
@@ -65,7 +65,7 @@ Sotano de las Golondrinas
 From the Cascada we headed towards the Sotano. We debated for quite a while which way to go. All the maps suggested going back out to the main highway going all the way around taking ages, but the locals swore the road continue on directly through the mountains there…it just may not be so good. Off we went twisting and turning through the mountains dodging more sleeping dogs. At least it was a good indicator we were nearing a village. Yet again Maps.Me ‘s time was off by about half. We arrived with ease, put our panniers in the restaurant, and hiked down to the Sotano, which dropped straight down into a black abyss some 500 meters. The English translation of the place is Cave of Swallows as each morning the birds rip out of the cave before returning for sunset.
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/Sotano-de-las-Golondrinas-4.jpg" >}}
+  {{< img src="Sotano-de-las-Golondrinas-4.jpg" >}}
 		      
 
 Xilitla
@@ -73,7 +73,7 @@ Xilitla
 Our last and final stop in Huasteca Potosina before the long haul south to Mexico City was Xilitla primarily to visit Las Pozas, which are surrealist gardens created over 35 years in the middle of the jungle. It was as if we were walking through King Louie’s house…if you don’t know who he is, it’s time to re-watch The Jungle Book. We snaked our way through the jungle and various concrete structures, houses, and sculptures. It was funky, weird, surreal experience!
 
 
-  {{< img src="mainland-mexico-part-4-huasteca-posina/Las-Pozas-Xilitla-8.jpg" >}}
+  {{< img src="Las-Pozas-Xilitla-8.jpg" >}}
 		      
 
 
@@ -83,121 +83,121 @@ Next stop Mexico City, can we make it to our final destination before Mitch’s 
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-2.jpg" >}}
+      {{< img src="Micos-River-Huasteca-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-4.jpg" >}}
+      {{< img src="Micos-River-Huasteca-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-5.jpg" >}}
+      {{< img src="Micos-River-Huasteca-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-8.jpg" >}}
+      {{< img src="Micos-River-Huasteca-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Micos-River-Huasteca-9.jpg" >}}
+      {{< img src="Micos-River-Huasteca-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Hostel-Casa-Kima-4.jpg" >}}
+      {{< img src="Hostel-Casa-Kima-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-1.jpg" >}}
+      {{< img src="Cascada-de-Tamul-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-2.jpg" >}}
+      {{< img src="Cascada-de-Tamul-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-5.jpg" >}}
+      {{< img src="Cascada-de-Tamul-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Cascada-de-Tamul-10.jpg" >}}
+      {{< img src="Cascada-de-Tamul-10.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Sotano-de-las-Golondrinas-4.jpg" >}}
+      {{< img src="Sotano-de-las-Golondrinas-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Sotano-de-las-Golondrinas-6.jpg" >}}
+      {{< img src="Sotano-de-las-Golondrinas-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/The-Road-to-Xilitla-1.jpg" >}}
+      {{< img src="The-Road-to-Xilitla-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Las-Pozas-Xilitla-3.jpg" >}}
+      {{< img src="Las-Pozas-Xilitla-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Las-Pozas-Xilitla-8.jpg" >}}
+      {{< img src="Las-Pozas-Xilitla-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/Las-Pozas-Xilitla-12.jpg" >}}
+      {{< img src="Las-Pozas-Xilitla-12.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/G0050076-2.jpg" >}}
+      {{< img src="G0050076-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/G0080171.jpg" >}}
+      {{< img src="G0080171.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/GOPR9920.jpg" >}}
+      {{< img src="GOPR9920.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-4-huasteca-posina/GOPR9930.jpg" >}}
+      {{< img src="GOPR9930.jpg" >}}
                 
     
 

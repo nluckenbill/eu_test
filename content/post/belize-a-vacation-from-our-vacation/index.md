@@ -25,7 +25,7 @@ We’d heard conflicting reports about how much of a pain in the ass the border
 Leaving the office we headed directly for Belize City to store our bikes at Edgar’s Mini storage. We had gained an hour crossing the border and had almost double the time needed to drop the bikes off and make the last water taxi, where we’d meet our friends from Colorado, Tyler and Tina. What could go wrong (why the hell do we keep asking ourselves this question)?! About 45 minutes into Belize Justin stopped to check the maps, and saw Gabe quickly hop off his bike inspecting his rear tire. FUCK! Sure enough Belize had welcomed the Team with a 3 inch slightly rusted and jagged nail.
 
 
-  {{< img src="belize/The-road-into-Belize.jpg" >}}
+  {{< img src="The-road-into-Belize.jpg" >}}
 		      
 
 
@@ -34,7 +34,7 @@ With the tire off and the rim on the ground it was now time for the hard part…
 At this point Justin and Mitch began to get a bit nervous. It was almost 4 PM and we were at least an hour from the storage unit. To make matters worse the last ferry left at 5:30 PM! We normally would never leave anyone behind, but given the circumstances we left Gabe in the hands of his fellow Canadians and ripped out of there…immediately feeling guilty.
 
 
-  {{< img src="belize/Flat-Tire.jpg" >}}
+  {{< img src="Flat-Tire.jpg" >}}
 		      
 
 
@@ -45,7 +45,7 @@ We were ready to leave as quickly as we had arrived, but before we could make it
 We arrived in Caye Caulker shortly after dark to find Tyler and Tina already settled into the hotel room, waiting for us with cold beers and rum. What a day!
 
 
-  {{< img src="belize/Caye-Caulker-16.jpg" >}}
+  {{< img src="Caye-Caulker-16.jpg" >}}
 		      
 
 
@@ -54,11 +54,11 @@ With our arrival debacle behind us it was time to take a vacation from the road 
 We did exactly what one would expect while spending the week lounging in the Caribbean. We spent our days relaxing on the beach, diving, sipping rum punch, snorkeling, and swimming. Mitch was lucky enough to have family friends that lived in Ambergris Caye and conveniently had a boat. They took the group of us out, armed us with snorkel gear and spear guns, and sent us searching for lobsters and fish. It was an incredible day out on the water despite coming up empty handed. At least Lee had packed a whole cooler of snapper he caught a few days earlier, which we fried up for lunch.
 
 
-  {{< img src="belize/Amergris-Caye-5.jpg" >}}
+  {{< img src="Amergris-Caye-5.jpg" >}}
 		      
 
 
-  {{< img src="belize/Caye-Caulker-7.jpg" >}}
+  {{< img src="Caye-Caulker-7.jpg" >}}
 		      
 
 
@@ -67,18 +67,18 @@ Tyler had gotten dive certified prior to flying down to meet us and was stoked t
 On our last night on the islands we headed into town to partake in the “World Famous” Chicken drop…not sure who came up with this name but it was pretty cool nonetheless. A hundred plus people drinking and betting on which number in the ring the chicken would shit on. It was heated and rowdy! We absolutely lost it when the chicken deuced on Tina’s number! Not only did she get to blow on a chicken’s butt for good luck but she had also won $50 USD…guess who got free margaritas?! THANKS TINA!
 
 
-  {{< img src="belize/Amergris-Caye-13.jpg" >}}
+  {{< img src="Amergris-Caye-13.jpg" >}}
 		      
 
 
-  {{< img src="belize/Amergris-Caye-16.jpg" >}}
+  {{< img src="Amergris-Caye-16.jpg" >}}
 		      
 
 
 Glowing with victory it was time for us to leave the outer islands and head to the jungle of San Ignacio, where we had a big house rented. The Germans along with Autumn and Gabe joined us. Unfortunately, it rained like GATOS Y PERROS the entire time we were there but we made the best of it. The roads into the house at one point got so slick Justin’s bike began sliding backwards down the hill while parked still. Our main reason for heading to San Ignacio was to visit the Actun Tunichil Muknal caves, which was an incredible experience. Set deep in the jungle the caves were the link to the Mayan underworld. We hiked through the jungle for 45 minutes swimming across three rivers to reach the entrance. Armed with helmets and flashlights we jumped into the water and began swimming into the cave. We spent the next 3 hours swimming, hiking, and snaking our way through the cave’s narrow cracks and crevasses before reaching the main chamber where there were Mayan skeletal remains, ceramics, and stoneware. Unfortunately, we weren’t able to bring in cameras (Mitch tried to sneak in his GoPro but was quickly scolded) because some dipshit had dropped his camera on one of the skulls ruining  it for everybody! In one area of the cave we saw pottery and even a fully intact skeletal systems.  It was believed that this area was used to for human sacrifice….crazy shit right?  If you want more info (and/or some cool photos) Nat Geo made a pretty cool [documentary][2] on the caves. All in all, it was an incredible and historical experience.
 
 
-  {{< img src="belize/The-Road-to-ATM-2.jpg" >}}
+  {{< img src="The-Road-to-ATM-2.jpg" >}}
 		      
 
 
@@ -88,145 +88,145 @@ We had packed a lot of Belize into a 10 day visit. We sadly sent Tyler and Tina 
 
 
 
-      {{< img src="belize/Amergris-Caye-3.jpg" >}}
+      {{< img src="Amergris-Caye-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Amergris-Caye-5.jpg" >}}
+      {{< img src="Amergris-Caye-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Amergris-Caye-6.jpg" >}}
+      {{< img src="Amergris-Caye-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Amergris-Caye-7.jpg" >}}
+      {{< img src="Amergris-Caye-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Amergris-Caye-13.jpg" >}}
+      {{< img src="Amergris-Caye-13.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Amergris-Caye-16.jpg" >}}
+      {{< img src="Amergris-Caye-16.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-1.jpg" >}}
+      {{< img src="Caye-Caulker-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-3.jpg" >}}
+      {{< img src="Caye-Caulker-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-7.jpg" >}}
+      {{< img src="Caye-Caulker-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-8.jpg" >}}
+      {{< img src="Caye-Caulker-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-16.jpg" >}}
+      {{< img src="Caye-Caulker-16.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-19.jpg" >}}
+      {{< img src="Caye-Caulker-19.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Caye-Caulker-21.jpg" >}}
+      {{< img src="Caye-Caulker-21.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Flat-Tire.jpg" >}}
+      {{< img src="Flat-Tire.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Justins-New-Motorcycle.jpg" >}}
+      {{< img src="Justins-New-Motorcycle.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Ruins.jpg" >}}
+      {{< img src="Ruins.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/San-Iganacio.jpg" >}}
+      {{< img src="San-Iganacio.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/San-Ignacio-2.jpg" >}}
+      {{< img src="San-Ignacio-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/The-road-into-Belize.jpg" >}}
+      {{< img src="The-road-into-Belize.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/The-Road-to-ATM-1.jpg" >}}
+      {{< img src="The-Road-to-ATM-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/The-Road-to-ATM-2.jpg" >}}
+      {{< img src="The-Road-to-ATM-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Tina-Picking-Oranges.jpg" >}}
+      {{< img src="Tina-Picking-Oranges.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/Tyler-Picking-Oranges.jpg" >}}
+      {{< img src="Tyler-Picking-Oranges.jpg" >}}
                 
     
 
 
 
-      {{< img src="belize/P1130049.jpg" >}}
+      {{< img src="P1130049.jpg" >}}
                 
     
 

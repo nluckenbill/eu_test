@@ -37,49 +37,49 @@ As it was almost pitch black and 9pm, we decide to simply camp at the trailheadt
 The next morning we hit the trail early and were shocked to see how many cars were in the parking lot. More than Ive ever seen since moving to Colorado. The trail and the hike itself was pretty self-explanatory and simple. Really well marked, you follow the South Boulder Creek, passing junctions for the Forest Lakes Split and Crater Lakes Split. The trail itself was beautiful. An insane amount of aspens at the base, which leads to thick mossy covered spruce, which was really different and cool to see in a dry arid climate such as Colorado vs. the thick rainforest type mountains of the PNW. Water was not at a shortage leading to quite a few areas of thick mucky sludge to wade through. With water and sludge comes mosquitos, and they were abundant until you got above tree line (its a good thing Nate sat this one out, hed of been torn up).
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
 		      
 
 
 The wildflowers were pretty and there was a variety of colors: yellow, red, purple, and blue. Still pretty prime, but so far this season nothing has come close to Eccles Pass last year.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
 		      
 
 
 As you crest the tree line you hike througha stretch of meadows lush with swampy water, thick green shrubs, and waterfalls, scattered with wildflowers before reaching the first lake, which we assumed was Heart Lake (actually Rogers Peak Lake). The lake was stunning with wild flowers in the foreground and Haystack Mountain in the background.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
 		      
 
 
 We quickly discovered that this, hands down, was one of the most popular backpacking areas Ive ever seen in the backcountry. On the bright side, it was spread out enough that everyone was able to get their own little pocket.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
 		      
 
 
 We ended up spending the afternoon and evening relaxing here. Saras pops fished (I left my rod at home for yet another hiked), I napped in my hammock, played some bocce and assorted card games. We never really got a hard downpour, just a few rain showers here and there and enough cloud coverage to get no real sunset action or stars.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
 		      
 
 
 The next morning we awoke to bluebird skies that left a magnificent reflection in the lake. I snapped a few photos and retreated to my cocoon (aka hammock) to enjoy the morning light. After a quick bite to eat, we partially packed-up and headed up the trail in search of Iceberg Lakes (our initial goal). By my judgement, it seemed to be about 1.5 miles from our site and 900 feet in elevation. The trail followed the rim of the lake up the ridge. At the top of the ridge was when we clearly realized, like everyone else, we stopped at Rogers Peak Lake, as there peering over on the other side was a perfectly heart shaped lake, Heart Lake, with no one camping at it.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Pass-Lake-Pano.jpg" >}}
+  {{< img src="Rogers-Pass-Lake-Pano.jpg" >}}
 		      
 
 
 We continued to climb the ridge until we reached the continental divide. To the right of the pass and Iceberg Lakes, straight ahead in the distance was Winter Park Ski Resort. I wanted to continue the extra mile and approximately 500 feet of elevation to the overlook but the clouds were getting thick and dark and the group consensus was to get down off the divide as we were fully exposed to mother nature and all her trickery.
 
 
-  {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
+  {{< img src="Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
 		      
 
 
@@ -95,76 +95,76 @@ The hike down was smooth and solid as we breezed down and headed in search of so
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-2.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-4.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-8.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-9.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Pass-Lake-Pano.jpg" >}}
+      {{< img src="Rogers-Pass-Lake-Pano.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-14.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-14.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
                 
     
 
 
 
-      {{< img src="rogers-peak-lake-and-heart-lake/Rogers-Peak-Lake-and-Heart-Lake-18.jpg" >}}
+      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-18.jpg" >}}

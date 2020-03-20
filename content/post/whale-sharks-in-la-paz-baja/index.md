@@ -21,11 +21,11 @@ format: image
 All of us were a bit bummed to leave the beauty, people, diving, and simplicity of Cabo Pulmo but you gotta do what you gotta do. Plus, we’d been promised that we could swim with the gentle giants known as the “Tiberon Ballena”, “Whale Sharks”, “Big Papa Plankton Eater”, or quite simply “Flavio”. We cruised back up to La Paz to stay with our excellent hosts, Frieda & Lee…did we mention we met them at an AutoZone? They were so kind to let us stay at their place, even letting Justin park his motorcycle in their living room.
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/La-Paz-4.jpg" >}}
+  {{< img src="La-Paz-4.jpg" >}}
 		      
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/La-Paz-7.jpg" >}}
+  {{< img src="La-Paz-7.jpg" >}}
 		      
 
 
@@ -33,11 +33,11 @@ All of us were a bit bummed to leave the beauty, people, diving, and simplicity 
 The Fellas arrived safely in La Paz and the next morning Mitch and Simone decided to go to the Mega (Mexico’s version of Target) to get some supplies. Sounds like a simple enough task, right? Wrong! As the Fellas exited the store, Mitch dragged his feet along the elevator getting the rubber sole of his trustworthy [Chacos][1] stuck in the bottom grooves! Man is he a special one! The scene turned quite comedic when 3 officers showed up and tried everything they could think of to get the sandal out…pulling, twisting, sweating, nothing seemed to work! Mitch finally asked the older gentleman “Can’t you just put the key in and reverse the track?”. The guard obliged and, low and behold, the sandal popped out as easy as it went in. A few disgruntled shoppers were forced to “walk” the escalator, but besides that no harm, no foul…
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1897.jpg" >}}
+  {{< img src="IMG_1897.jpg" >}}
 		      
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1903.jpg" >}}
+  {{< img src="IMG_1903.jpg" >}}
 		      
 
 
@@ -52,102 +52,102 @@ See whale sharks was the best ending to Baja that we could have imagined. It was
 We arrived at Pichilingue 2-3 hours in advance as instructed, which proved to be way too much time. We provided the necessary paperwork, got weighed in, paid our tax, and were on the boat. Once the bikes were secured down with straps we headed up to our room. Baja Ferries overall provided a great experience. Everything was clean, well-organized, and entirely too cold after camping in Baja for the past month. Off to bed we went. Tomorrow we’d be starting a new chapter, Mainland Mexico, stay tuned.
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-1.jpg" >}}
+  {{< img src="Ferry-to-Mazatlan-1.jpg" >}}
 		      
 
 
-  {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-7.jpg" >}}
+  {{< img src="Ferry-to-Mazatlan-7.jpg" >}}
 		      
 
 
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/GOPR1895.jpg" >}}
+      {{< img src="GOPR1895.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1897.jpg" >}}
+      {{< img src="IMG_1897.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1898.jpg" >}}
+      {{< img src="IMG_1898.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1901.jpg" >}}
+      {{< img src="IMG_1901.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1903.jpg" >}}
+      {{< img src="IMG_1903.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/IMG_1904.jpg" >}}
+      {{< img src="IMG_1904.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/La-Paz-4.jpg" >}}
+      {{< img src="La-Paz-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/TheBigTrip-2016-11-17-173859.jpg" >}}
+      {{< img src="TheBigTrip-2016-11-17-173859.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/TheBigTrip-2016-11-17-173935.jpg" >}}
+      {{< img src="TheBigTrip-2016-11-17-173935.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/La-Paz-7.jpg" >}}
+      {{< img src="La-Paz-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-1.jpg" >}}
+      {{< img src="Ferry-to-Mazatlan-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-7.jpg" >}}
+      {{< img src="Ferry-to-Mazatlan-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-8.jpg" >}}
+      {{< img src="Ferry-to-Mazatlan-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-9.jpg" >}}
+      {{< img src="Ferry-to-Mazatlan-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="baja-part-6-whale-sharks-and-ferries/Ferry-to-Mazatlan-10.jpg" >}}
+      {{< img src="Ferry-to-Mazatlan-10.jpg" >}}
                 
     
 

@@ -23,7 +23,7 @@ Returning from two weeks in the States Mitch was eager to hit the road and get i
 Before we could depart Cartagena, and officially dive into South America, we had a few maintenance items to take care of. We’ve both been running the same tires since we left Denver, some 12,000 miles ago, and our chain and sprocket setup was even older! It was time to treat the girls to some well-deserved maintenance. The guys over at Moto Gangas were a great crew and got us all setup, and had the best selection of motorcycle tires and parts we found in Cartagena. 
 
 
-  {{< img src="colombia-part-2/FullSizeRender.jpg" >}}
+  {{< img src="FullSizeRender.jpg" >}}
 		      
 
 
@@ -33,25 +33,25 @@ With everything installed we headed out early the following morning towards Sant
 Baking in the Colombian heat, Justin immediately pulled off the rear wheel and went in search of a ride, leaving Mitch to watch the bikes, and our gear thrown across the road. The police denied him a ride, but quickly found him a mototaxi. The culprit was a pinch when the tire was installed, and it was an easy fix for 5000 Peso or less than $2. The problem was between the two of us we had less than 7000 Peso. We had tried two ATMs in route, both leaving us empty handed. Justin tried to offer the guy $5 USD, which was more than double what he wanted but he refused it. Where would he change it? He lived in the middle of nowhere, or at least that was his argument. It was all we had and it was eventually settled. The llantero would receive his 5000 Peso, the mototaxi driver would receive the rest, and we would officially be broke left searching for an ATM.
 
 
-  {{< img src="colombia-part-2/IMG_0466.jpg" >}}
+  {{< img src="IMG_0466.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-3.jpg" >}}
+  {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-3.jpg" >}}
 		      
 
 
 With our first flat behind us we continued towards Santa Cruz de Mompox following the Rio Magdalena weaving in and out of small sleepy villages, and crossing bridges. The road was quite good and well paved up until about 15 KM outside of town where it quickly turned to dirt and mud. It was exhilarating and fun to see life in this remote part of Colombia. There were kids playing soccer and food vendors in the streets. Amongst the chaos, locals zoomed around via motorbike or bicycle mostly giving us odd looks, and for good reason. As we headed down the dirt track with the setting sun on our left, and the river on our right we were quickly stopped by a local, “Van a Mompox? Eso camino es cerrado.” 
 
 
-  {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-5.jpg" >}}
+  {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-5.jpg" >}}
 		      
 
 
 Was the road really closed? We were instructed to turn around, head towards the church, make a left, and find the canoes. Canoes, you´ve got to be shitting us? We were running out of daylight and had no other options really. As we approached the river bank we were greeted by welcoming Colombians in their dugout canoes. What seemed like a slightly sketchy river crossing was the norm for the people that inhabited this area. The bikes were individually loaded into separate canoes and off we went into the setting sun!
 
 
-  {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-7.jpg" >}}
+  {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-7.jpg" >}}
 		      
 
 
@@ -62,30 +62,30 @@ Once in Santa Cruz de Mompox we scouted out a few things to do. The main attract
 Wandering the quiet and tranquil, yet picturesque Colonial Colombian town we ran into a friendly 16-year old girl, Maria, riding her bike with her new puppy, Nico, lounging in the front basket. Her personality embodied what we have learned to love so much about Colombia, especially out in the countryside. Warm and welcoming, and filled with gratitude. We ended up spending the majority of the day with Maria. We took turns racing her bike up and down the cobblestone streets and playing with Nico. We explored a few church’s, and even snuck into the bell tower accidentally giving it a few rings. By late afternoon we found ourselves all sitting around a table in her Grandpa´s backyard sipping on coffee and chatting about his farm and the different types of trees and plants he sells. We were beyond lucky to see and experience such an amazing side of Colombia. 
 
 
-  {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-6.jpg" >}}
+  {{< img src="Santa-Cruz-de-Mompox-Colombia-6.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-17.jpg" >}}
+  {{< img src="Santa-Cruz-de-Mompox-Colombia-17.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/IMG-0408.jpg" >}}
+  {{< img src="IMG-0408.jpg" >}}
 		      
 
 
 All jacked up on coffee it was time to hit the river. We boarded our boat and began to navigate through the river slithering through the tight grass and reeds. It was beautiful and massive, almost too the point where it was hard to take in the sheer scale of the river and the network it reaches (P.S. Someone buy us a drone!). It reminded us of the Everglades, minus the alligators and pythons. We passed small villages and locals fishing, and even went for a swim. It was truly an amazing experience to see. 
 
 
-  {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-26.jpg" >}}
+  {{< img src="Santa-Cruz-de-Mompox-Colombia-26.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-29.jpg" >}}
+  {{< img src="Santa-Cruz-de-Mompox-Colombia-29.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/IMG-0406.jpg" >}}
+  {{< img src="IMG-0406.jpg" >}}
 		      
 
 
@@ -94,14 +94,14 @@ From Santa Cruz de Mompox we continued on south and into the mountains. It was t
 We spent the next 80 KM dodging potholes and cows and having way too much fun puddle bashing through the river crossings. It was a whole community affair. Locals were out in the water directing cars, motorbikes, and bicycles through the river instructing which areas were the shallowest or had the least number of obstacles. It was too much fun we had to do some of the crossing twice just for pictures.
 
 
-  {{< img src="colombia-part-2/The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-9.jpg" >}}
+  {{< img src="The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-9.jpg" >}}
 		      
 
 
 Once back on the asphalt the road improved and was great all the way through Bucaramanga. We were no longer in the swamp and the scenery changed to thick forest and rolling mountains. Man did it feel good to stop sweating! The final stretch from Bucaramanga to San Gil was easily one of the best drives we´d done in months, and no one seemed to even mention it. Heck Lonely Planet doesn´t even mention the fact that there is a massive canyon in between the two that exceeds 108,000 acres and extends 2,000 meters in depth. It was incredible! It took us over 2.5 hrs to drive the 85 KM between all of the hairpin u-turns, switchbacks, and the stunning vistas. 
 
 
-  {{< img src="colombia-part-2/Barichara-Colombia-5.jpg" >}}
+  {{< img src="Barichara-Colombia-5.jpg" >}}
 		      
 
 
@@ -112,7 +112,7 @@ Now soaring over the canon like a condor sounded fun to the rest of the group, b
 Suited up Justin stepped to the edge of the canon and per the instructions of his guide got ready to run off into the abyss. In reality, this never happen. The second the chute opened his legs were airborne flapping around. The initial takeoff was effortless and smooth. All that anxiety for nothing! 
 
 
-  {{< img src="colombia-part-2/Paragliding.jpg" >}}
+  {{< img src="Paragliding.jpg" >}}
 		      
 
 
@@ -123,11 +123,11 @@ His guide had tried to land, but missed the landing point, which was fairly comm
 The rest of our time in San Gil was spent enjoying the cool weather, going for hikes, and enjoying some epic riding through the neighboring small towns of Barichara and Guane.
 
 
-  {{< img src="colombia-part-2/San-Gil-Colombia-5.jpg" >}}
+  {{< img src="San-Gil-Colombia-5.jpg" >}}
 		      
 
 
-  {{< img src="colombia-part-2/San-Gil-Colombia-7.jpg" >}}
+  {{< img src="San-Gil-Colombia-7.jpg" >}}
 		      
 
 
@@ -137,197 +137,197 @@ The Colombian countryside has been strikingly beautiful, and has rejuvenated our
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-1.jpg" >}}
+      {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-3.jpg" >}}
+      {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-5.jpg" >}}
+      {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-7.jpg" >}}
+      {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-Santa-Cruz-de-Mompox-Colombia-8.jpg" >}}
+      {{< img src="The-Road-to-Santa-Cruz-de-Mompox-Colombia-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-4.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-6.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-11.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-11.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-15.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-15.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-17.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-17.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-23.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-23.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-26.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-26.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-27.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-27.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-29.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-29.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-31.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-31.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Santa-Cruz-de-Mompox-Colombia-36.jpg" >}}
+      {{< img src="Santa-Cruz-de-Mompox-Colombia-36.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-9.jpg" >}}
+      {{< img src="The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-13.jpg" >}}
+      {{< img src="The-Road-betweeen-Santa-Cruz-de-Mompox-and-Bucaramanga-13.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/The-Road-to-San-Gil-Colombia-3.jpg" >}}
+      {{< img src="The-Road-to-San-Gil-Colombia-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/San-Gil-Colombia-4.jpg" >}}
+      {{< img src="San-Gil-Colombia-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/San-Gil-Colombia-5.jpg" >}}
+      {{< img src="San-Gil-Colombia-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/San-Gil-Colombia-7.jpg" >}}
+      {{< img src="San-Gil-Colombia-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/San-Gil-Colombia-9.jpg" >}}
+      {{< img src="San-Gil-Colombia-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Barichara-Colombia-12.jpg" >}}
+      {{< img src="Barichara-Colombia-12.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Chicamocha-Canyon-Colombia-2.jpg" >}}
+      {{< img src="Chicamocha-Canyon-Colombia-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Paragliding.jpg" >}}
+      {{< img src="Paragliding.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/FullSizeRender.jpg" >}}
+      {{< img src="FullSizeRender.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/IMG_0466.jpg" >}}
+      {{< img src="IMG_0466.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/Barichara-Colombia-5.jpg" >}}
+      {{< img src="Barichara-Colombia-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/IMG-0407.jpg" >}}
+      {{< img src="IMG-0407.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/IMG-0408.jpg" >}}
+      {{< img src="IMG-0408.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/IMG-0409.jpg" >}}
+      {{< img src="IMG-0409.jpg" >}}
                 
     
 
 
 
-      {{< img src="colombia-part-2/IMG-0406.jpg" >}}
+      {{< img src="IMG-0406.jpg" >}}
                

@@ -25,7 +25,7 @@ In the days leading up I feverishly checked the snow forecast converting centime
 The wind was increasing, which was evident by our bumpy landing and it had started to snow. It was to be a game time decision in the morning. I was told to expect a phone call around 7:45am if launch was a go. Being me I was up by 6am tossing and turning waiting. The phone rang, I powered through some stretches and breakfast before heading to the docks where we boarded a boat for Mt. Nicholas. It was a beautiful 30 minute sunrise cruise taking in the scenery of Lake Wakatipu with the coastline covered in morning clouds and dew. Mt. Nicholas is a 100,000 acre farm home to 30,000 Merino sheep and over 2,000 cattle. It was also to be our launch pad into the Backranges.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Heli-boarding-2.jpg" >}}
+  {{< img src="Heli-boarding-2.jpg" >}}
 		      
 
 
@@ -33,28 +33,28 @@ The wind was increasing, which was evident by our bumpy landing and it had start
 The weather at this point looked dismal. The clouds had socked in thick and there was no evidence of any mountains to even be seen. In the meantime we split into groups of five with our guides going over the entry and exit into the helicopter before a safety debriefing where we learned how to use avalanche beacons and probes. Now all we needed was the supposed wind-shift to blow the clouds out and we’d be off. Hours went by with all of us anxiously awaiting to shred. The clouds simply wouldn’t budge. Lunch time had come and gone, and we were served a delightful meal (soup, sandwich, and meat-pie), which is normally prepared in the middle of the mountains between runs. All of the guides were just as baffled as us as they’d never actually eaten lunch before getting any runs in. After lunch we built a fire along the beach. The troops were getting wrestless until we heard the humming of the chopper finally around 2pm.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Heli-boarding-5.jpg" >}}
+  {{< img src="Heli-boarding-5.jpg" >}}
 		      
 
 
 Having never been in a helicopter I was more nervous about that then the big lines we were about to ride. The first ride up was out of the farm and into the mountains. We climbed in altitude hovering over lush green farms, when all of a sudden we’d crested the snow level and were in a winter wonderland. It was mesmerizing. Snow-capped peaks as far as the eye could see.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Heli-boarding-20.jpg" >}}
+  {{< img src="Heli-boarding-20.jpg" >}}
 		      
 
 
 Off in the distance one could see little orange flags flapping in the wind. This was to be our first drop. Flying in the helicopter didn’t feel real. Sitting co-pilot, since I was lightest, with glass under my feet all the way to the ceiling its looked and felt like a Universal ride where you are stationary and the screen is moving, everything just zipping past you. The precision landing of the pilots was impeccable. We were greeted with 20cm (~8in) of freshies, with a solid base below. It was soft, cool, an dry. We picked our line and were off, drawing big untouched lines off the main peak before descending into the bowl. It was soft, smooth, buttery lines for 700 meters with nothing but the sounds of untouched snow being packed.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Heli-boarding-9.jpg" >}}
+  {{< img src="Heli-boarding-9.jpg" >}}
 		      
 
 
 We repeated over and over again three more times before we reached the cutoff point. Due to the late start, it was to get dark soon. Majority of the group had paid for only four runs which we did. I had signed up for more and could have easily done 5-10 additional runs, lapping freshies all day long unlike some of my group who was spent. The snow quality varied from amazing light fluffy powder to springs like cream cheese. The terrain while looks daunting from the base it could have been a little steeper or intense. None of it was too technical. It was more pleasant, mild, and flowing. The type of runs you never get tired of or from.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Heli-boarding-15.jpg" >}}
+  {{< img src="Heli-boarding-15.jpg" >}}
 		      
 
 
@@ -67,42 +67,42 @@ The drive started out just fine out of Christchurch. A little rain, but nothing 
 It’s hard to say how much snow fell in total. There was an easy 6 inches or so in town, but the storm ended up dumping 42cm or about 16 inches on the nearby ski hill, which explained my drive. We were greeted by cloudy skies when we woke but by 10am it had turned bluebird and the roads had re-opened. The drive out to Mt. Cook was magical. In the distance was snow capped peaks, however, the terrain was treeless and barren. The drive was pleasant though passing the glacial blue Pukaki Lake, which the road followed all the way to the Park.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Mt.-Cook-National-Park-1.jpg" >}}
+  {{< img src="Mt.-Cook-National-Park-1.jpg" >}}
 		      
 
 
 Once in the Park we quickly learned that all side roads leading to the trail heads were closed due to the snow storm the evening prior. The only road, which was open was the main entrance road. After speaking to the park ranger we decided on the Hooker Valley track. It was approx. 5km each way, but due to the entrance being closed we had to tack on another 2km each way. It was deep snow, but not too terrible without snowshoes. The sun was shinning high and bright and I was able to just hike in a long sleeve.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Mt.-Cook-National-Park-4.jpg" >}}
+  {{< img src="Mt.-Cook-National-Park-4.jpg" >}}
 		      
 
 
 The hike meandered along the river having three suspended bridges to cross the varying streams.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Mt.-Cook-National-Park-8.jpg" >}}
+  {{< img src="Mt.-Cook-National-Park-8.jpg" >}}
 		      
 
 
 As we continued onward along the trail the sun began to descend below the peaks leaving us in the shadows of Mt. Cook and the surrounding peaks. We continued to push on until we were an estimated 30 minutes from the end of the trail, but decided to turn back due to the setting sun and not having headlamps. I would have loved to camp out there below the towering peaks. The scenery was incredible and pictures do not do it justice.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Mt.-Cook-National-Park-12.jpg" >}}
+  {{< img src="Mt.-Cook-National-Park-12.jpg" >}}
 		      
 
 
 On the drive home back to Lake Tekapo we were treated with an incredible sunset. 
 
 
-  {{< img src="heli-boarding-and-mt-cook/Mt.-Cook-National-Park-14.jpg" >}}
+  {{< img src="Mt.-Cook-National-Park-14.jpg" >}}
 		      
 
 
 When we arrived back into town it was cloudy without any visible stars, which was a bummer as the area is a Dark Sky Preserve and supposed to be one of the top viewing spots in the world. I periodically checked the weather, but it was still pretty cloudy. I decided to check one last time before heading off to the bar for the rugby match, and I was in luck. It had cleared. We hopped in the car and drove about 3km down a dirt road and I fired off a few images before the clouds rolled back in. I’ve seen the stars in a lot of different places around the world which I thought were incredible. The Andes, Himalayas, even from a boat in the middle of the Flores sea. None even comes close to this. The entire night sky was covered in stars with the Milky Way visible to the naked eye.
 
 
-  {{< img src="heli-boarding-and-mt-cook/Lake-Tekapo-2.jpg" >}}
+  {{< img src="Lake-Tekapo-2.jpg" >}}
 		      
 
 

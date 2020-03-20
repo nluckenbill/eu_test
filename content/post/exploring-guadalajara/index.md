@@ -27,14 +27,14 @@ Back on the road the Fellas were quickly approaching the City known for beautifu
 After our two amazing stays at “The Funky Monkey” and “La Redonda”, The Roof didn’t make us angry…just disappointed. The issues stemmed from the staff, they were lazy, drunk, and honestly gave zero fucks about the cleanliness and appearance of the place. Some of our favorite quotes from the less than motivated staff included “I’d help you but I have a headache”, “All I do here is drink and paint on the walls”, “I think I’ll clean…tomorrow”, and Eddie’s personal favorite, when approached by the rather flamboyant American “Let me know if you need a hand ;)” . On the bright side, they did have free parking in the heart of the city.
 
 
-  {{< img src="mainland-mexico-part-2/15409466_10154168254375318_655428572_o.jpg" >}}
+  {{< img src="15409466_10154168254375318_655428572_o.jpg" >}}
 		      
 
 
 We spent a couple of days meandering the markets and enjoying some of the local culture. Even Ali from Sayulita made an appearance (minus his wallet, shoes, and dignity from a crazy beach party…moms gonna be pissed!). He was visiting some friends in Guadalajara he had met in Puerto Vallarta. We also met some very lovely Germans, Antonia y Eva…they’re voices still resonate in our heads “I think we make party now, yah?!”. The whole group of us went out to watch a futbol match at, you’ll never guess, Outback Steakhouse with valet car service and all! Think about how useful that would be with all the fat Americans in their pickup trucks stuffing their faces with blooming onions? Get with it America!
 
 
-  {{< img src="mainland-mexico-part-2/Guadalajara-5.jpg" >}}
+  {{< img src="Guadalajara-5.jpg" >}}
 		      
 
 
@@ -44,65 +44,65 @@ Having spent too long in “the city” and Justin’s stomach finally back to n
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-1.jpg" >}}
+      {{< img src="Guadalajara-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-2.jpg" >}}
+      {{< img src="Guadalajara-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-4.jpg" >}}
+      {{< img src="Guadalajara-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-5.jpg" >}}
+      {{< img src="Guadalajara-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-6.jpg" >}}
+      {{< img src="Guadalajara-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/Guadalajara-7.jpg" >}}
+      {{< img src="Guadalajara-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/15368840_10154168254920318_346600652_o.jpg" >}}
+      {{< img src="15368840_10154168254920318_346600652_o.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/15388820_10154168254845318_1078637876_o.jpg" >}}
+      {{< img src="15388820_10154168254845318_1078637876_o.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/15409466_10154168254375318_655428572_o.jpg" >}}
+      {{< img src="15409466_10154168254375318_655428572_o.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/15417941_10154168254655318_1980409042_o.jpg" >}}
+      {{< img src="15417941_10154168254655318_1980409042_o.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-2/15419332_10154168254245318_547936863_o.jpg" >}}
+      {{< img src="15419332_10154168254245318_547936863_o.jpg" >}}
                

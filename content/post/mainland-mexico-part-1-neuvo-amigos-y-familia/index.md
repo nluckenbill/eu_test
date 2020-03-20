@@ -23,7 +23,7 @@ Dripping in sweat and choking on semi-truck diesel fumes we unstrapped our bikes
 Off we went, back into traffic separating just as quickly as we met. La Tortuga’s turtle crawl was no match for the white night. Knowing how to get to the hostel Justin headed directly there only to find Mitch, Simone, and Gabe already in the confines of the gated parking lot. “Open the gate you fools”, Justin shouted. The guys had successfully arrived in Mazatlán and Mainland Mexico!
 
 
-  {{< img src="mainland-mexico/Funky-Monkey-Hostel-1.jpg" >}}
+  {{< img src="Funky-Monkey-Hostel-1.jpg" >}}
 		      
 
 
@@ -33,36 +33,36 @@ Our time spent in Mazatlán was short but welcoming and really got us into the b
 It was a hard place to leave, we had only been there 3 nights but the hostel had a VERY strong sense of community. We instantly walked into family and settled in nicely. THANK YOU SO MUCH FOR THE HOSPITALITY! It was time to make moves to Sayulita, a beautiful beach community about a four-hour drive south…
 
 
-  {{< img src="mainland-mexico/Sayulita-4.jpg" >}}
+  {{< img src="Sayulita-4.jpg" >}}
 		      
 
 
 What an amazing town! Our hostel sat just 2 blocks from the beach and we had everything we needed within a 30 second walk…and by everything we mean surf, beer, & tacos. I’m sure none of you will be surprised to learned that the beer is cheaper than water. At the local Oxxo you could purchase 10 beers for 80 pesos (approx…$4)…God bless you Mexico!
 
 
-  {{< img src="mainland-mexico/Sayulita-6.jpg" >}}
+  {{< img src="Sayulita-6.jpg" >}}
 		      
 
 
 The best part about Sayulita was the people (it’s always about the people).  There was [Eddie and Benji][1] from Vancouver…”yah you betcha” there’s more Canadians…they were also traveling to South America on moto. There was Kyle from Australia who was, again, traveling to South America on moto. Even the well-groomed, French Canadian, Gabe broke his stint in Mazatlán to come for a visit. As we picked up 4 new riders it was time to say goodbye to our 3-week travel companion, Simone. He had to be in Costa Rica for Christmas and at the rate we were traveling, we’d be lucky to be in Mexico City at that point. Then there was the non-motorcycle traveling backpackers. Ali, the 25 y/o San Diego kid, who was constantly getting yelled at by his mother via telephone because he refused to tell her his location. Krista and Molly, who were on a Yoga retreat, put out the much-welcomed hippy vibe. Autumn, the free spirit, and the Argentinian girls, Camila y Luz. We spent our days surfing, paddleboarding, hiking, cooking, bar hopping, or hammock lounging. Pretty much heaven.
 
 
-  {{< img src="mainland-mexico/GOPR1938.jpg" >}}
+  {{< img src="GOPR1938.jpg" >}}
 		      
 
 
-  {{< img src="mainland-mexico/Sayulita-9.jpg" >}}
+  {{< img src="Sayulita-9.jpg" >}}
 		      
 
 
 For Thanksgiving, the Team, which consisted of Justin, Mitch, Ali, Gabe, and Autumn, decided to hike out to the “secret beach” for some good ol fashioned camping. Throughout the morning, we gathered supplies and organized the gear. Armed with 6 liters of beer, 1 kilo of chorizo, vegetables, and rice we were ready to celebrate Thanksgiving, Mexican style! Arriving at the beach mid-afternoon we spent our time swimming, lounging, and even trying to use our mattress pads as surf boards! We feasted in the evening and made the WORLDS LARGEST campfire. No doubt it could have been seen from the Moon! All was right in the world…well until we were rudely interrupted at 6:30 AM.
 
 
-  {{< img src="mainland-mexico/Sayulita-29.jpg" >}}
+  {{< img src="Sayulita-29.jpg" >}}
 		      
 
 
-  {{< img src="mainland-mexico/Sayulita-30.jpg" >}}
+  {{< img src="Sayulita-30.jpg" >}}
 		      
 
 
@@ -74,127 +74,127 @@ Leaving Sayulita was incredibly difficult. The welcoming sense of community we h
 
 
 
-      {{< img src="mainland-mexico/Funky-Monkey-Hostel-1.jpg" >}}
+      {{< img src="Funky-Monkey-Hostel-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/GOPR1938.jpg" >}}
+      {{< img src="GOPR1938.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-1.jpg" >}}
+      {{< img src="Sayulita-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-2.jpg" >}}
+      {{< img src="Sayulita-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-4.jpg" >}}
+      {{< img src="Sayulita-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-5.jpg" >}}
+      {{< img src="Sayulita-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-6.jpg" >}}
+      {{< img src="Sayulita-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-8.jpg" >}}
+      {{< img src="Sayulita-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-9.jpg" >}}
+      {{< img src="Sayulita-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-10.jpg" >}}
+      {{< img src="Sayulita-10.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-11.jpg" >}}
+      {{< img src="Sayulita-11.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-13.jpg" >}}
+      {{< img src="Sayulita-13.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-14.jpg" >}}
+      {{< img src="Sayulita-14.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-16.jpg" >}}
+      {{< img src="Sayulita-16.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-17.jpg" >}}
+      {{< img src="Sayulita-17.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-23.jpg" >}}
+      {{< img src="Sayulita-23.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-24.jpg" >}}
+      {{< img src="Sayulita-24.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-28.jpg" >}}
+      {{< img src="Sayulita-28.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-29.jpg" >}}
+      {{< img src="Sayulita-29.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-30.jpg" >}}
+      {{< img src="Sayulita-30.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico/Sayulita-33.jpg" >}}
+      {{< img src="Sayulita-33.jpg" >}}
                 
     
 

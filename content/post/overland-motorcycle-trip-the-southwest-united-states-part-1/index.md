@@ -31,7 +31,7 @@ The extra day actually became beneficial as we wrapped up loose ends. Would we b
 
 
 
-        {{< img src="Intro-to-Overland-Trip/Trip-Preperation-8.jpg" >}}
+        {{< img src="Trip-Preperation-8.jpg" >}}
 		      
       
 
@@ -43,14 +43,14 @@ We scrambled and shoved the remaining items into our duffel bags and panniers as
       We rolled into the cabin slightly before dusk and grabbed a good nights sleep. The cabin was well equipped yet off the grid.
     
 
-      {{< img src="overland-trip-us/Kens-House-Salida.jpg" >}}
+      {{< img src="Kens-House-Salida.jpg" >}}
 		      
     
 
 The Team was up early the following morning ready to head to Pagosa Springs to meet up with some local friends for the evening. Little did we know that CO would show us all four seasons within the first couple hours on the road! But first things first, we had our first bike drop! As we were pulling out of the cabin, Mitch got a little a head expecting Justin to be close behind…He got to the closest intersection, and waited, and waited, finally returning back to the cabin a couple minutes later to see Justin laughing at himself for dropping the bike while standing still on flat ground, picking it up and subsequently dropping it on the other side! Back to the weather, when we first pulled into Salida it was raining, and then the sun came out, and then it rained again and then the sun came out…Can we get some consistency here! Things cleared up outside Saguache but got a little windy until we got to the WOLF CREEK PASS ascent. The scenery was beautiful but the temperature began to drop, fast! When we reached the summit believe it or not it was snowing! Mitch took a moment to snap a quick pic with his camera while they both did jumping jacks to stave off frost bite (it was damn cold!). They busted off the summit and within minutes the temperature was back in the 60’s. There was only one reasonable explanation for the today’s weather…Colorado was drunk again!! As they came down into the Pagosa Springs Valley the view of the Aspens were incredible! Stopping at a pull off, the fellas joined other onlookers to snap some photos of the breathtaking scene. The aspens had been beyond peak for most of our drive, but the Valley was a kaleidoscope of colors. Some of the best aspen groves we’ve ever seen.
     
 
-      {{< img src="overland-trip-us/Wolf-Creek-Pass-4.jpg" >}}
+      {{< img src="Wolf-Creek-Pass-4.jpg" >}}
 		      
     
 
@@ -58,7 +58,7 @@ The Team was up early the following morning ready to head to Pagosa Springs to m
     
 
 
-    {{< img src="overland-trip-us/Peters-House-in-Pagosa-Springs-1.jpg" >}}
+    {{< img src="Peters-House-in-Pagosa-Springs-1.jpg" >}}
 		      
   
 
@@ -68,16 +68,16 @@ The Team was up early the following morning ready to head to Pagosa Springs to m
 The next morning we got a slower than expected start which we can thank to the copious amounts of beers. However, this is one of the joys of having a “no timeline/early retirement” type adventure. We enjoyed the creature comforts of the house well past mid-morning having a nice breakfast before continuing further southwest towards Mesa Verde National Park. The scenery changed drastically from jagged mountains to high altitude desert with a majority of the driving being lined by colorful fall foliage. Once in Mesa Verde we quickly signed up for a 4 PM tour of the Balcony House cliff dwellings (for $4, why not??). The park seemed seldom visited, but way surpassed our expectations. We met David NightEagle, a googly-eyed 68 year old 20+ year park ranger, and his thirteen year old volunteer Cannon. From the get-go the charisma and passion David exuberated was contagious. He explained the hike and the history behind the cliff dwellings before the group descended 92 stairs into the 11th Century, before climbing the 32-ft ladder up into the dwellings where we got a chance to step back in time and see and learn about the communities that once thrived here.
 
 
-      {{< img src="overland-trip-us/Mesa-Verde-National-Park-3.jpg" >}}
+      {{< img src="Mesa-Verde-National-Park-3.jpg" >}}
 		      
     
 
 
-    {{< img src="overland-trip-us/Mesa-Verde-National-Park-5.jpg" >}}
+    {{< img src="Mesa-Verde-National-Park-5.jpg" >}}
 		      
   
 
-    {{< img src="overland-trip-us/Mesa-Verde-National-Park-6.jpg" >}}
+    {{< img src="Mesa-Verde-National-Park-6.jpg" >}}
 		      
   
 
@@ -85,11 +85,11 @@ The next morning we got a slower than expected start which we can thank to the c
  At the conclusion of the tour David, who makes his own flutes, played us a song leaving a lasting and magical impression over Mesa Verde. We left Mesa Verde shortly before sunset in search of free camping on BLM land thanks to the advice of the park rangers.
 
 
-      {{< img src="overland-trip-us/Mesa-Verde-National-Park-7.jpg" >}}
+      {{< img src="Mesa-Verde-National-Park-7.jpg" >}}
 		      
     
 
-      {{< img src="overland-trip-us/Mesa-Verde-National-Park-9.jpg" >}}
+      {{< img src="Mesa-Verde-National-Park-9.jpg" >}}
 		      
     
 
@@ -97,11 +97,11 @@ We were only four days into the trip but it felt like weeks! We had already seen
 
 
 
-    {{< img src="overland-trip-us/Four-Corners-2.jpg" >}}
+    {{< img src="Four-Corners-2.jpg" >}}
 		      
   
 
-    {{< img src="overland-trip-us/Four-Corners-3.jpg" >}}
+    {{< img src="Four-Corners-3.jpg" >}}
 		      
   
 
@@ -110,7 +110,7 @@ From the four corners we continued to Page, Arizona, where we regrouped and trie
 
 
 
-        {{< img src="overland-trip-us/Horshoe-Bend-1.jpg" >}}
+        {{< img src="Horshoe-Bend-1.jpg" >}}
 		      
       
 
@@ -121,131 +121,131 @@ From the four corners we continued to Page, Arizona, where we regrouped and trie
 
 
 
-            {{< img src="overland-trip-us/Four-Corners-1.jpg" >}}
+            {{< img src="Four-Corners-1.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Four-Corners-2.jpg" >}}
+            {{< img src="Four-Corners-2.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Four-Corners-3.jpg" >}}
+            {{< img src="Four-Corners-3.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Horshoe-Bend-1.jpg" >}}
+            {{< img src="Horshoe-Bend-1.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Horshoe-Bend-2.jpg" >}}
+            {{< img src="Horshoe-Bend-2.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Horshoe-Bend-3.jpg" >}}
+            {{< img src="Horshoe-Bend-3.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Kens-House-Salida.jpg" >}}
+            {{< img src="Kens-House-Salida.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-1.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-1.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-2.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-2.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-3.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-3.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-4.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-4.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-5.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-5.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-6.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-6.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-8.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-8.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-9.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-9.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Peters-House-in-Pagosa-Springs-1.jpg" >}}
+            {{< img src="Peters-House-in-Pagosa-Springs-1.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Poncha-Pass.jpg" >}}
+            {{< img src="Poncha-Pass.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Wolf-Creek-Pass-1.jpg" >}}
+            {{< img src="Wolf-Creek-Pass-1.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Wolf-Creek-Pass-2.jpg" >}}
+            {{< img src="Wolf-Creek-Pass-2.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Wolf-Creek-Pass-3.jpg" >}}
+            {{< img src="Wolf-Creek-Pass-3.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Wolf-Creek-Pass-4.jpg" >}}
+            {{< img src="Wolf-Creek-Pass-4.jpg" >}}
                 
           
 
 
 
-            {{< img src="overland-trip-us/Mesa-Verde-National-Park-7.jpg" >}}
+            {{< img src="Mesa-Verde-National-Park-7.jpg" >}}
                

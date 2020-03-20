@@ -23,7 +23,7 @@ Leaving Mazunte was a bit of a heartbreaker but we either had to do that or risk
 Already delaying the Team a day, the Boy’s decided to make the short journey to check out Cañon del Sumidero. After a short boat ride, and a few history lessons from our Skipper we were right in the middle of the Canyon – Unbelievable! Some of the cliffs rose as high as 1000 meters (or at least that is what Ol Skip told us). Either way it was a sight to be seen, the only concern we had surrounded the amount of trash in the river. Other sights included crocodilos, all sorts of birds, and a boat selling beers and Cheetos! After the tour it was time to scale the mountain and head to San Cristobal before it got dark and Mitch was left navigating the roads without a headlight.
 
 
-  {{< img src="mainland-mexico-part-7/Canon-del-Sumidero-5.jpg" >}}
+  {{< img src="Canon-del-Sumidero-5.jpg" >}}
 		      
 
 
@@ -33,7 +33,7 @@ Arriving in town, it got cold…fast. Night temperatures plummeted into the high
 The biggest highlight of the area was hands down our day trip to Chiflon and Lagos de Montebello. It was one hellish and long day of being in the bus, but the scenery was absolutely unreal. By mid-day we were a stones throw away from the Guatemalan border ogling turquoise waterfalls, rivers, and alpine lakes. The only downside was the bus driver who drove everywhere like he was a Nascar driver.
 
 
-  {{< img src="mainland-mexico-part-7/Cascada-de-El-Chiflon-9.jpg" >}}
+  {{< img src="Cascada-de-El-Chiflon-9.jpg" >}}
 		      
 
 
@@ -42,18 +42,18 @@ After several days the sun finally decided to show it’s face in San Cristobal 
 While Mitch was feeling back to his normal self Justin awoke to his own case of the stomach bug (never trust a fart) on the first day in Palenque leaving us debilitated and not able to move. Justin sat in his tent for a painstaking two days sweating with stomach cramps and nausea before Mitch and Antonia went into town, pretended to be sick, and brought back medication. At least if Justin died there in the tent the Howler Monkeys would have a good feast!
 
 
-  {{< img src="mainland-mexico-part-7/Aluxes-Ecoparque-Palenque-1.jpg" >}}
+  {{< img src="Aluxes-Ecoparque-Palenque-1.jpg" >}}
 		      
 
 
 Feeling about 70% the Guys finally had enough steam to head into the ruins and see the magical wonder of Palenque. Not knowing much about the history of the ruins and the Mayan culture the 100s of ruins around Mexico begin to get old and kind of monotonous, but Palenque was stunning. It was so unique! Set back deep in the jungle surrounded by thick forests and the sounds of birds chirping and monkeys howling…it was a new experience for all of us. It really had a mystical and ancient feel.
 
 
-  {{< img src="mainland-mexico-part-7/Palenque-Pano.jpg" >}}
+  {{< img src="Palenque-Pano.jpg" >}}
 		      
 
 
-  {{< img src="mainland-mexico-part-7/Palenque-10.jpg" >}}
+  {{< img src="Palenque-10.jpg" >}}
 		      
 
 
@@ -63,119 +63,119 @@ Next stop…the Yucatan Penninsula.
 
 
 
-      {{< img src="mainland-mexico-part-7/Canon-del-Sumidero-5.jpg" >}}
+      {{< img src="Canon-del-Sumidero-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Canon-del-Sumidero-6.jpg" >}}
+      {{< img src="Canon-del-Sumidero-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Canon-del-Sumidero-10.jpg" >}}
+      {{< img src="Canon-del-Sumidero-10.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Cascada-de-El-Chiflon-5.jpg" >}}
+      {{< img src="Cascada-de-El-Chiflon-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Cascada-de-El-Chiflon-6.jpg" >}}
+      {{< img src="Cascada-de-El-Chiflon-6.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Cascada-de-El-Chiflon-8.jpg" >}}
+      {{< img src="Cascada-de-El-Chiflon-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Cascada-de-El-Chiflon-9.jpg" >}}
+      {{< img src="Cascada-de-El-Chiflon-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Lagos-de-Montebello-2.jpg" >}}
+      {{< img src="Lagos-de-Montebello-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Lagos-de-Montebello-3.jpg" >}}
+      {{< img src="Lagos-de-Montebello-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Lagos-de-Montebello-7.jpg" >}}
+      {{< img src="Lagos-de-Montebello-7.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Aluxes-Ecoparque-Palenque-1.jpg" >}}
+      {{< img src="Aluxes-Ecoparque-Palenque-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Aluxes-Ecoparque-Palenque-2.jpg" >}}
+      {{< img src="Aluxes-Ecoparque-Palenque-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Aluxes-Ecoparque-Palenque-4.jpg" >}}
+      {{< img src="Aluxes-Ecoparque-Palenque-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Kikas-Drawing.jpg" >}}
+      {{< img src="Kikas-Drawing.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-5.jpg" >}}
+      {{< img src="Palenque-5.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-10.jpg" >}}
+      {{< img src="Palenque-10.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-12.jpg" >}}
+      {{< img src="Palenque-12.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-Pano.jpg" >}}
+      {{< img src="Palenque-Pano.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-14.jpg" >}}
+      {{< img src="Palenque-14.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-7/Palenque-17.jpg" >}}
+      {{< img src="Palenque-17.jpg" >}}
                

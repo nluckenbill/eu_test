@@ -27,32 +27,32 @@ That was until we met Victor, Jorge, and the Gang. The hospitality that we have 
 The day after we arrived was Victor’s birthday celebration, Jorge was also going to meet us there with El Tractor’s innards…winner winner chicken dinner! Little did we know that we’d be accompanied by the owner of the restaurant, Octavio, 5 or 6 of Jorge/Victor’s good riding buddies and enough tequila to kill a small African village (and the Zika)…needless to say, we didn’t ride our moto’s home that night.
 
 
-  {{< img src="mainland-mexico-part-5/Partying-with-Jorge-in-Mexico-City-2.jpg" >}}
+  {{< img src="Partying-with-Jorge-in-Mexico-City-2.jpg" >}}
 		      
 
 
 Next step was to get El Tractor off the bench and back onto the field (at full strength). Again, through our network we were connected with a mechanic and his trusted apprentice’s, Sergio and Joven. Replacing a clutch on KLR is quite simple, unless of course, the online retail giant sends you the WRONG FUCKING SPRINGS (litigation still pending)! Thankfully the original springs were still within spec and could continue to be used.
 
 
-  {{< img src="mainland-mexico-part-5/P1040438.jpg" >}}
+  {{< img src="P1040438.jpg" >}}
 		      
 
 
 With the bikes ripping and roaring again, it was time to put our tourist hats back on and see what the area had to offer. We spent a day in the markets around the town square and are pretty sure that each and every one of the 22 million people in the City had decided to do the same. Leading up to Christmas, the market had more Mexicans than a Home Depot parking lot…
 
 
-  {{< img src="mainland-mexico-part-5/Mexico-City-9.jpg" >}}
+  {{< img src="Mexico-City-9.jpg" >}}
 		      
 
 
 Next, we took the Bikes for a short ride out of the City to visit Teotihuacan. Sitting atop the Pyramid of the Moon watching life go by we couldn’t help but imagine what was going on in this city at its height. A bustling market, fires cooking, children running around. For now it remains up to our imagination. Words really can’t describe this place so here’s some photos.
 
 
-  {{< img src="mainland-mexico-part-5/Teotihuacan-8.jpg" >}}
+  {{< img src="Teotihuacan-8.jpg" >}}
 		      
 
 
-  {{< img src="mainland-mexico-part-5/Teotihuacan-11.jpg" >}}
+  {{< img src="Teotihuacan-11.jpg" >}}
 		      
 
 
@@ -64,85 +64,85 @@ Saying our second goodbye, off the Guy’s went through the mountains towards Oa
 
 
 
-      {{< img src="mainland-mexico-part-5/Mexico-City-1.jpg" >}}
+      {{< img src="Mexico-City-1.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Mexico-City-3.jpg" >}}
+      {{< img src="Mexico-City-3.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Mexico-City-4.jpg" >}}
+      {{< img src="Mexico-City-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Mexico-City-9.jpg" >}}
+      {{< img src="Mexico-City-9.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Partying-with-Jorge-in-Mexico-City-2.jpg" >}}
+      {{< img src="Partying-with-Jorge-in-Mexico-City-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-Pano.jpg" >}}
+      {{< img src="Teotihuacan-Pano.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-2.jpg" >}}
+      {{< img src="Teotihuacan-2.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-4.jpg" >}}
+      {{< img src="Teotihuacan-4.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-8.jpg" >}}
+      {{< img src="Teotihuacan-8.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-10.jpg" >}}
+      {{< img src="Teotihuacan-10.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-11.jpg" >}}
+      {{< img src="Teotihuacan-11.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Teotihuacan-12.jpg" >}}
+      {{< img src="Teotihuacan-12.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/Dinner-with-Victor.jpg" >}}
+      {{< img src="Dinner-with-Victor.jpg" >}}
                 
     
 
 
 
-      {{< img src="mainland-mexico-part-5/P1040438.jpg" >}}
+      {{< img src="P1040438.jpg" >}}
                 
     
 
