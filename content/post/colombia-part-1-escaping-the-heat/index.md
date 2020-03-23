@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Landing in Colombia was a world-wind of a journey. Getting the bikes unloaded and through customs was easy and by 3 PM we were free to roam South America! For the first time in the entire trip the team would split up as Mitch had to take care of some business back in Colorado (golfing, wedding, and drinking an IPA or two were on the docket).  A vacation from his vacation? Probably not…With so many people to see and “activities” to do there was a high probably of burn out…retired life can be so stressful sometimes! Oh well! It could be a worse ;). With the Captain of the Wildcard hooking Mitch up with a place to store the KLR for two weeks he was off and Justin was free to roam on his own!
 

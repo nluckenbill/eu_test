@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Motoring on south out of Playa Santispac, we continued through Bahia Concepcion being treated with stunning views of the Sea of Cortez and secluded beaches, nooks, and crannies. It was a drive that will never get old. Can you imagine the beauty of this section of coastline by sailboat? The possibilities would simply be endless, from here all the way down to the East Cape and Cabo Pulmo, our furthest destination south.
 

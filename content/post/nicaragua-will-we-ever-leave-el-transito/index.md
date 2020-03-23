@@ -15,8 +15,6 @@ tags:
   - nicaragua
   - Overland
   - XT225
-format: image
-
 ---
 We arrived into Nicaragua under the cover of darkness. The air was cool and refreshing, and the moon was full, illuminating the road and canyon as we snaked our way through it. It was magical. Justin couldn’t help but to stand straight up on his footpegs, flip up his visor, and howl at the moon, “Ooooooooooo”. We had officially made it to our seventh country of the journey!
 

@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 If you’ve been following along you know a large chunk of our time in Guatemala was spent driving the epic, but absolutely fucking terrible roads, and [hiking as many volcanoes][1] as we could. Per usual, time slipped away from us and before we knew it we had spent almost 5 weeks in Guatemala. Two of those weeks we stayed in one location immersing ourselves in the Guatemalan culture by enrolling in Spanish School in Xela. [El Mundo en Espanol][2] here we come!
 

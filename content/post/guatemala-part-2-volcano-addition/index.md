@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 So we’ve decided to change things up a bit and instead of writing a meandering posts regarding the stupid shit that happens to us along the way we’re going to get a little more specific and focus solely on the Volcanos of Guatemala. Believe it or not, there are 27 (mas o menos) volcanoes in ol Guate – enough to keep you busy for a while. Two out of three climbs we chose strictly out of convenience, the other (Acatenango) came HIGHLY recommended! All-in-all we climbed over 1000 floors and took over 100,000 steps (at least that’s what the iPhone said).
 

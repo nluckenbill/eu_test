@@ -15,8 +15,6 @@ tags:
   - motor
   - Overland
   - XT225
-format: image
-
 ---
 Dripping in sweat and choking on semi-truck diesel fumes we unstrapped our bikes from the ferry and tried to exit, only to be blocked by a caravan of vehicles. Weaving our way in and out we finally disembarked out of the belly of the beast and into fresh air…directly into Mazatlán traffic. There were cars and people everywhere. Something we had seldom seen in the past month exploring Baja. While stopped for gas, a French Canadian on a shiny F800GS approached us, “Yo! You should head on over to The Funky Monkey hostel, I’ve been there 7 weeks. We have a pool, cold beer, and we’re located right in the heart of the City!”. Talk about a warm welcome to Mainland! We understand we often fuck up directions, but a private escort? We’ve really become high class citizens!
 

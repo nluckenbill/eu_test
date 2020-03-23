@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Costa Rica is a place of immense beauty, sure, but after months on the road our initial intentions were to breeze through it. We had spent too much time in Mexico and Central America and were running short on days to get to Panama for our boat to Colombia. Justin had been there five times previously for surf trips, and countless people kept telling us how expensive it was, how touristy it was, and how it wasn’t “true” Central America. We don’t disagree with any of those comments, but what we found in Costa Rica was more than good, it was great! If you were willing to get off the beaten track Costa Rica offered some of the best scenery and riding we had done in months. It rejuvenated our spirits, lifted us up, and made us excited to see what each day had in store for us. Something we had sort of lost over the last few weeks as things became mundane. It left us begging for more time and adventure, but first we had to overcome a potentially trip ending disaster…
 

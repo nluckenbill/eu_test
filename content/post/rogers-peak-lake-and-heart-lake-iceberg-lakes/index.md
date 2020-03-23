@@ -17,8 +17,6 @@ tags:
   - rogers peak lake and heart lake
   - waterfalls
   - wildflowers
-format: image
-
 ---
 Trip length  8.7 miles + (depends if you continue on to Iceberg Lakes over-look)  
 Elevation gain  2,099 ft to Heart Lake  

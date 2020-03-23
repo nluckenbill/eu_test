@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Exhausted from the hustle of the city we needed to get back to nature, and be immersed in the true beauty of Mexico. Most guidebooks make no mention of it or at the maximum offer one page of useless information, but Huasteca Potosina kept coming up in conversation with locals. “Oh you’re on motorcycles? You guys must go! It’s full of incredible roads, waterfalls, jungle, and turquoise rivers.”. We were sold!
 

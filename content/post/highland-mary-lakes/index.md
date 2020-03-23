@@ -15,8 +15,6 @@ tags:
   - San Juans
   - waterfalls
   - wildflowers
-format: image
-
 ---
 For years now, Justin and I have complained to each other, after the fact of course, that we didn’t do a backpacking trip over the extended 4th of July weekend. Well, this year we decided to change that and really maximize the long weekend. After calling the ranger station in Silverton to get the latest scoop on the conditions, we decided on a 10 mile loop of the Highland Mary Lakes in the Weminuche Wilderness over Ice Lakes Basin due to the latter being mostly frozen still. To add some icing to the cake we found out rafting was in order for the July 4th festivities with some of Sara’s friend in Durango.
 

@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Waking up groggy and a bit exhausted from all the Pacificos and a full liter of Tequila, we were ready to leave Bahia de Los Angeles and head south. Our new friend, Simone, suggested that we take the road less traveled from Bahia de Los Angeles to Punta San Francisquito. It wasn’t the first time we had heard about San Francisquito, but had chosen to avoid it in prior years due to story after story of flat tires. Against our better judgement, we agreed and meandered our way through town onto hard packed gravel roads.
 

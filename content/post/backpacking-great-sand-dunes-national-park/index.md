@@ -12,8 +12,6 @@ tags:
   - backpacking
   - camping
   - great sand dunes national park
-format: image
-
 ---
 The Great Sand Dunes, formed less than 440,000 years ago, was a destination I’ve been trying to get to since I moved to Colorado almost four years ago. For some reason or another something always seemed to get in the way whether it be work, sold out campsites, or blistering heat. So when my buddy Andy decided to fly out for a Southwest Colorado road-trip I knew we had to lump the Dunes into our route, hopefully backpacking and camping in them. Andy and I were no strangers to epic road-trips. This would be our second within the year as he met me in New Zealand for a 1,200 mile road-trip through the South Island of New Zealand. Sadly we would be without the creature comforts of a camper van on this trip. My trusty Subaru and tents would have to suffice. For those of you reading this that know me well, yes I am well aware I should just shut up and buy a van already.
 

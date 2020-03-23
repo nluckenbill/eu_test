@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 We found ourselves at the Aduana counter in a bit of fog. Why had we actually left Colombia? It was a place both of us could call home. We were welcomed as family with open arms. There was just something incredibly infectious about Colombia. However, if we were to ever make it to Patagonia the journey must continue south. We handed in our vehicle import papers and crossed that imaginary line into Ecuador. While Justin was sorting out the Aduana process Mitch was busy mingling with the locals. Within 5 minutes of conversation Mitch’s new friend, Darwin, invited us to  to Otavalo, where he owned a bar, the Red Pub. There were volcanoes to hike, South America´s largest market, and a festival about to start Otavalo Yamor Festival which he compared to Brazil´s carnival. We were sold! 
 

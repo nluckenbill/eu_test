@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Leaving Hausteca Posina was no easy task, but El Tractor was still sputtering at high speeds and needed a new clutch. Thankfully, the networking skills of the Team paid off and the Boy’s were able to successfully ship the parts from the US to a friend in Mexico City (Jorge, who they’d met in [San Francisquito][1])…this saved a lot of time and money. Furthermore, Jorge set us up with a friend, Victor, who managed a hotel in a nice neighborhood in one of the World’s Largest Cities. Things appeared to be in perfect working order, all we had to do now was get the bike’s there…seems pretty simple, eh??
 

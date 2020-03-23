@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 The Guy’s escaped [Mexico City][1] and its hellish traffic with ease. The KLR didn’t overheat and the XT’s carburetor appeared to be functioning as normal. Both bikes were officially working at peak performance after a long few days at the garage. Hallelujah!
 

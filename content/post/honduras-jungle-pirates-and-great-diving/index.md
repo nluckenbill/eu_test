@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Honduras, outside of 3 (maybe 4) spots regularly visited by backpackers, doesn’t have the best reputation. Ever since Baja, we’ve heard stories of corruption and extortion, with one crazy Ex-Pat even telling us how he’d been completely displaced from his retirement property by the cartel. HOW COULD WE POSSIBLY PASS ON ALL THIS FUN?! Copan Ruins would be our first stop, followed by a long drive up to the Caribbean coast to take advantage of one of the CHEAPEST places in the world for diving, Utila, and to visit a pirate legend in Sambo Creek.  As always, there would be quite certainly some other adventures along the way.
 

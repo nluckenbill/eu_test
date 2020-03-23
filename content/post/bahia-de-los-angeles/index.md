@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 
   Our original plan was to stay for two nights in Parque Nacional San Pedro Martir, but after freezing our nipples off and barely getting any sleep we knew where we needed to be…The Sea of Cortez! We had hoped to visit the observatory while at the Park but we could never quite figure out the logistics, kind of a shit show.  Anyway, we decided to stay at Don Eddy’s again before making the long trek across the desert from the Pacific to the Sea of Cortez aiming for Bahia de Los Angeles. The first half of the ride was boring and desolate, while the second half (once dropping into Chipala) was beautiful with huge cactus dominating the landscape backed by the silhouette of mountains.

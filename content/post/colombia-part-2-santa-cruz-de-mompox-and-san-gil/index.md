@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Returning from two weeks in the States Mitch was eager to hit the road and get into the depths of Colombia. He was missing the vibrant culture, food, and of course El Tractor (and Antonia, of course!). We had plans to head north retracing some of Justin’s footsteps before heading further up coast towards Punta Gallinas, the northern most point in South America. The horror stories of the man eating sand fleas and the unbearable heat Justin endured must have not sounded enticing and Mitch’s mind was quickly changed. We decided we needed to retreat down to the mountains near Bucaramanga and San Gil, where it would be cooler, and we wouldn’t need three showers a day. We would follow the Rio Magdalena south stopping in Santa Cruz de Mompox before ascending into the mountains. It was game time!
 

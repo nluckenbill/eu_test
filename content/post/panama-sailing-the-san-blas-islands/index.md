@@ -16,8 +16,6 @@ tags:
   - Panama
   - san blas islands
   - XT225
-format: image
-
 ---
 With two days’ time and 500+ miles to go we really didn’t leave ourselves much time to see anything in Panama except the rolling asphalt underneath our bikes and the impending rain storms above us. It was time for La Tortuga to put on her big girl pants and waddle herself at lightning speed towards Panama City! Mitch’s parents would be arriving and we had big plans to explore the city before heading to the San Blas Islands with [Wildcard Sailing][1]. The highlight of the drive was whizzing past our Chilean friend we met at customs. There he was in all his glory, ears flopping all around, tongue dragging in the wind emitting slobber. This was by far the coolest dog either of us will ever meet. Other dogs aspire to be as bad-ass as him. He might as well be the Brad Pitt of dogs swooning bitches from one dog park to another. He had traveled from Chile up to Costa Rica, and now back down all while lounging in the comforts of his companion’s sidecar. What a boss!
 

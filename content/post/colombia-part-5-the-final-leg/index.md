@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 With only the bottom fifth of Colombia remaining there was still some adventures to be had in our favorite country. That is if Mitch’s bike (or heart) could handle another spontaneous combustion! Despite our explosive arrival, Popayan brought us some good fortune, and by good fortune we mean GOOD FOOD! From there it was VERY important that we head back north to Cali to experience the so called “Salsa Capital of the World”, the [Pacifico Petronio Music Festival][1], and of course Kyle’s 30th birthday (like we needed an excuse to drink) before heading south to the border through Trampolin de la Muerte. Leaving Colombia might just SHATTER us…this place (and people) have been so good to us – leaving us with not only incredible memories but a connection with a place like none other!
 

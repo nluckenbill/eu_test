@@ -9,7 +9,6 @@ categories:
 tags:
   - gear
   - mountaineering
-
 ---
 Finally!!
 

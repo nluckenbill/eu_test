@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 This isn’t our first journey through The Baja, however, we knew there were many adventures a head of us. No great overland motorcycle trip can be complete without a jaunt down the legendary Baja peninsula. The tacos, the untouched beaches, and the locals have a contagious power over you that is hard to describe. However, before we could make it to Baja we first had to make it out of Arizona and diagnose [Mitch’s overheating bike][1].
 

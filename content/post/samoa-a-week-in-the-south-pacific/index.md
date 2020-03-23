@@ -12,8 +12,6 @@ tags:
   - Samoa
   - South Pacific
   - travel
-format: image
-
 ---
 Depending on your geographic intelligence you may have never heard of the country of Samoa, yet alone, have the faintest clue as to its whereabouts. If you’ve never heard of the country the word Samoa my simply bring to mind the chocolate & caramel tasty treat of a Girl-Scout cookie…unless you are one of those odd people that knew them as Caramel Delights, but I’ll save that for another argument.
 

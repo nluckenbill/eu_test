@@ -18,8 +18,6 @@ tags:
   - Triumph
   - XT225
   - Yamaha
-format: image
-
 ---
 **Overview:**
 

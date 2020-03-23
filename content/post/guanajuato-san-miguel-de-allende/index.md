@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Leaving Guadalajara was a breeze compared to entering. There was little to no traffic to dissect and no diesel fumes tainting the air. We cruised out of the city with ease. It was like comparing the god-awful parking lot of Sunday ski traffic on i70 to a Tuesday morning stroll. Continuing with our motto of avoiding toll roads we found ourselves weaving in and out of small villages, mountains, and agave farms. The road eventually turned to shit and was so pothole ridden and wobbly that both Mitch and Justin pulled over at separate times to check if they had a flat tire. Nope, just Mexico being Mexico again. After several long hours on the road the Boys finally closed in on Guanajuato.
 

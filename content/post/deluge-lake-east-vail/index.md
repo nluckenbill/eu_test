@@ -17,8 +17,6 @@ tags:
   - rocky mountains
   - vail
   - winter
-format: image
-
 ---
 The infamous Deluge Lake hike. A simple 9.1 mile hike staring in East Vail, Colorado. Despite being steep and easily accomplished in a day, up until this attempt I had been 0-2 on this trail. The first two times that I attempted this trail was in the winter, and both times resulted in failure. Thick snow, post-holing deep down to me knees, and relatively short days of sunlight meant neither time I’d had even made it past the aspen grove. This time was going to be different. It was September, the first snowfall had just arrived, the aspens were painting the valley an array of yellows and oranges, and I was determined to make it. Not only was I going to make it, but I was going to attempt my first “semi-winter” camping.
 

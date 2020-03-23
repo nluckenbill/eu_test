@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 All of us were a bit bummed to leave the beauty, people, diving, and simplicity of Cabo Pulmo but you gotta do what you gotta do. Plus, we’d been promised that we could swim with the gentle giants known as the “Tiberon Ballena”, “Whale Sharks”, “Big Papa Plankton Eater”, or quite simply “Flavio”. We cruised back up to La Paz to stay with our excellent hosts, Frieda & Lee…did we mention we met them at an AutoZone? They were so kind to let us stay at their place, even letting Justin park his motorcycle in their living room.
 

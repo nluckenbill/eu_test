@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Medellin has been at the back of our minds since we left the States (thanks Narcos, Pablo Escobar, and EVERY damn traveler we’ve met coming north). Needless to say, the bar had been set very high and for very good reason. With stunning views, passionate people, and one of the biggest plates of MEAT (bandeja paisa) you can find anywhere, what was there not to love?! That coupled with the coffee region which is regarded by many to be their favorite region in all of Colombia (mainly due to its beauty, temperate climate, and coffee ALLLLL the coffee). This next leg of the trip was sure to be one of the best!
 

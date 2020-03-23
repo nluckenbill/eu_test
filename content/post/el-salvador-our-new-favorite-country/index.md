@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 El Salvador, the runt of the pack, is a little country sandwiched between Guatemala, Nicaragua, and Honduras. It’s perfectly situated on a beautiful stretch of the Pacific, has plenty of volcanoes to hike, and is littered with little towns and markets. Despite all of this everyone seems to brush it off, skipping it, heading directly towards Nicaragua or the Bay Islands, Honduras, in the luxury of their air-conditioned shuttles. But why?
 

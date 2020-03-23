@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Leaving Guerro Negro we were bound for one of our favorite places in the Baja, Bahia Concepcion! From last year’s trial run we knew exactly what to expect…delicious tacos, tasty margaritas, phenomenal beach camping, and great people.
 

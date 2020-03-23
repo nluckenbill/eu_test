@@ -13,8 +13,6 @@ tags:
   - Heli-boarding
   - New Zealand
   - winter
-format: image
-
 ---
 I’ve been down here in New Zealand for what seems like three weeks, but has actually been two months. Time has been moving at warp speed and before I know it I’ll be returning home. I took the first few weeks easy really getting to learn the city I am living in and the varying bars and restaurants as well as what makes the city tick and move, but the last few weeks have been full on.
 

@@ -14,8 +14,6 @@ tags:
   - Overland
   - Southwest
   - XT225
-format: image
-
 ---
 
 

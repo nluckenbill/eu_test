@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 When most people think about the Yucatan their mind brings them to the crystal-clear waters of the Caribbean, resort style vacationing, and hangovers that can only be shed by drinking more beers at one of the seven pools or three hot tubs.  Well, we’re not gonna lie, that’s basically what the Yucatan was for us as well…just extended.
 

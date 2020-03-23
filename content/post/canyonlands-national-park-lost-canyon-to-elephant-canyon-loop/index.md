@@ -13,9 +13,7 @@ tags:
   - Fall
   - scrambling
   - Utah
-format: image
 draft: true
-
 ---
 In a search to change things up in the scenery department, we headed off to Utah’s Canyonlands Needles district for a breathtaking overnight loop through Lost Canyon and Elephant Canyon. This 13.8 mile overnight backpack encompasses the best scenery the Needles district has to offer.
 

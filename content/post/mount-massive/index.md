@@ -12,8 +12,6 @@ tags:
   - 14er
   - Colorado
   - Sawatch
-format: image
-
 ---
 Prior to diving into the Mt. Massive hike I wanted to provide a quick introduction. This is a new territory for myself  sharing. Yeah I know  weird huh?A virgin to all social media services, I never had any desire to be part of the Facebook, MySpace, LinkedIn, Instagram, or Snapchat experience. Not that I am a hipster who thought himself above or better than the individuals who connect or use these services. I understand their purpose  I get it. However its not who I am. I lack that emotional connectionto want to share or be shared personal stories. Not that I dont care about friends or acquaintances, I just dont care enough to read, write, or post. With our South American trip looming Nate wanted us to begin writing about our experiences, to provide a portal to our future travels. I cannot promise that I will start narrating 140 word updates about the pork belly tacos I had on Tuesday night nor will I fill this blog with useful anecdote during our excursions. No promises, just an attempt to finally share and be shared.
 

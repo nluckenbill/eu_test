@@ -8,7 +8,6 @@ categories:
   - South America
 tags:
   - gear
-
 ---
 While on the mountain, Tuan and I will be carrying a Delorme InReach personal locator. If you like to see exactly where we are on the mountain and if we’re doing OK use the link below:
 

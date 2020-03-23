@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 From the first time we wandered into the Valle de Cocora we were enamored by the gushing green landscape, the giant wax palms and last but not least the queso and hot chocolate. After doing some further research, we determined that there was not only the day loop (which most tourist walked) BUT there was also a multiple day trek up to the unpredictable mountain, Nevado Tolima. With Justin back in the States for a good buddies wedding, we (Mitch and Antonia) decided to give it a run. 
 

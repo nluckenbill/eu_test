@@ -14,8 +14,6 @@ tags:
   - Colorado
   - lakes
   - Tenmile
-format: image
-
 ---
 Greetings,
 

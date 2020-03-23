@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 For weeks (well months) we’ve heard it time and time again…”How the hell are you Boys still in Mexico?” Friends from the road have blast past us time traveling to Nicaragua or Columbia before we’d even left Mexico and its abundance of tacos and tortas. It was hard to leave but our time had come. We officially left Mexico after 100+ days of epic riding, one burnt clutch, 2 cases of Salmonella, incredible diving, 1 near-death experience, and a life time worth of adventures and new friends. Satisfied, yet sad, we busted south to the Belize border!
 

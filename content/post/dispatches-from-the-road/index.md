@@ -11,7 +11,6 @@ tags:
   - backpacking
   - south america
   - travel
-
 ---
 While I wallow in self-pity of sitting at work, Nathan and Tuan are off tackling new adventures. They have safely made it to Santiago, Chile before embarking on a bus ride across the Andes to Mendoza, Argentina to meet their group.
 

@@ -13,8 +13,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Countless hours have been spent scouring google leading to a black hole of blogs and Instagram pages. Overland travel comes in many different forms. Some people choose bicycles or the classic VW Vanagon or Land Cruiser. There is no right answer. Every mode of transport is so conditional depending on the journey ahead and the level of comfort and adventure being sought after. For this adventure we’ve chosen an overland motorcycle journey! Would it have been nice to have a roof over our head and a van stocked with surfboards, fishing gear, and bikes…sure, but being out in the elements soaking in the smells and senses seems like the only way to truly experience it.
 

@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Next stop, Guadalajara, the second largest City in all of Mexico! The drive from Sayulita to G Town seemed easy enough, a couple of hours through the mountainous jungle and we should be enjoying a night out on the town or in Eddie’s opinion sushi! Why he wanted sushi away from the coast is beyond us, Canadians. Within the first 30 kilometers after leaving the beautiful beach town Justin’s steed starting acting a bit odd, like it had forgotten to take its morning meds…hmmm. The next thing he knew the bike had lost all power and he was going full speed down the mountain pass with no access to power. Thankfully, the breaks still had full functionality and he could safely come to halt.  Assuming the issue stemmed from a deteriorating gas cap, Justin switched the tank to reserve and hoped the unidentified objects floating in the gas tank would slip through with ease. This seemed to work…for now.
 

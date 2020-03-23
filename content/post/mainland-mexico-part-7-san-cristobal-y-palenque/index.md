@@ -15,8 +15,6 @@ tags:
   - Motorcycle
   - Overland
   - XT225
-format: image
-
 ---
 Leaving Mazunte was a bit of a heartbreaker but we either had to do that or risk spending the rest of our lives there! So we ripped outta of town like one rips a bandaid off a boo-boo, eyes closed crying like babies! San Cristobal was no easy day trip, so the Boys decided to stay a night in Tuxla before making the journey up into the mountains. Dinner was a pretty simple choice, Chili’s…”I want my baby back baby back baby”…sorry just couldn’t resist. Anyway, for some odd reason unbeknownst to man, Mitch decided to order a glass of water, not a BOTTLE of water…a GLASS of water. A little suspicious, he only decided to have one miniscule sip when the salt from his chicken fajitas had him parched…BAD IDEA! Let’s just say Mitch didn’t need an alarm clock the next morning. Feeling pretty rough, the Guys decided to stay another day before leaving Tuxla.
 
