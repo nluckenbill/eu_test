@@ -373,11 +373,6 @@ Reaching the tail end of the San Blas it was time to make moves. Learning from o
 
       {{< img src="The-Road-to-the-Panamanian-Border-Costa-Rica-2.jpg" >}}
                 
-    
-
-
-
-      {{< img src="PANAMA.jpg" >}}
                 
     
 
