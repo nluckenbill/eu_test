@@ -1,5 +1,5 @@
 baseurl = "https://eu-test.netlify.com"
-title = "elevationUpgrade"
+title = "elevation Upgrade"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -14,7 +14,7 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/peru_header_resized.jpg"
-  SEOTitle = "elevationUpgrade"
+  SEOTitle = "elevation Upgrade"
   description = "Colorado backpacking blog"
   keyword = "blog, mountains, colorado, backpacking, hiking"
  # slogan = "blah slogan"
@@ -25,7 +25,7 @@ home = ["HTML", "RSS", "Algolia"]
   omit_categories = true
 
   # leancloud storage for page view counter
-  page_view_conter = false 
+  page_view_conter = true 
   leancloud_app_id = ""
   leancloud_app_key = ""
 
