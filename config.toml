@@ -18,6 +18,7 @@ home = ["HTML", "RSS", "Algolia"]
   description = "Colorado backpacking blog"
   keyword = "blog, mountains, colorado, backpacking, hiking"
  # slogan = "blah slogan"
+  showtoc = false
 
   image_404 = "img/404-bg.jpg"
   title_404 = "Error :("
