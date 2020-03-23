@@ -4,7 +4,7 @@ import glob
 import re
 
 # Python regex to clean up html parts missed
-#regex = r"(?<=\")(.*\.jpg)"
+regex = r"(?<=\")(.*\.jpg)"
 
 # Replace with
 subst = ""
@@ -16,8 +16,12 @@ for filepath in glob.iglob('./content/post/**/*.md', recursive=True):
     if filepath:    
         with open(filepath, encoding='utf8') as file:
             contents = file.read()
-            print(contents)
+            file.close()
+            matches = re.search(regex, contents)
+            print(filepath, "\n")
+            print(matches)
             for line in file:
+                print(file)
                 if pattern.search(line) != None:
                     print(line, end='')
     else:

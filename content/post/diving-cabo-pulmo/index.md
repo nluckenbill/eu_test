@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-12-11T21:41:59+00:00
 url: /diving-cabo-pulmo/
-image: https://eu-test.netlify.com/post/images/Cabo-Pulmo-13.jpg
+image: Cabo-Pulmo-13.jpg
 categories:
   - Mexico
   - Motorcycle

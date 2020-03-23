@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-06-07T20:27:47+00:00
 url: /nicaragua-will-we-ever-leave-el-transito/
-image: https://eu-test.netlify.com/post/images/Isla-Ometepe-Nicaragua-8.jpg
+image: Isla-Ometepe-Nicaragua-8.jpg
 categories:
   - Motorcycle
   - Nicaragua
@@ -57,7 +57,7 @@ Ever since we left Colorado Mitch’s family friend, Mike, had been expecting ou
 		      
 
 
-If we had spent any more time at Mike’s we might have ended up being property owners and investing in his development, Monte Cristo. It was a hard place to leave, Mike and Patty were amazing hosts! We spent a lot of our days lounging in the pool, going for surf sessions in town (El Transito), and exploring the 500-acre property. The property was to be a compound of houses, mostly investment properties, but after sour negotiations and poor developers the project has been stalled for years. The biggest let-down (for Mitch at least) was that there was supposed to be an 18-hole golf course on the property. The team pulled up to the spot where the clubhouse was to be built and shed a could tears at the potential (well Mitch did). The dirt roads are mostly overgrown and only a handful of people currently actually live on-site. It was beautiful and fun to explore via motorcycle.
+If we had spent any more time at Mike’s we might have ended up being property owners and investing in his development, Monte Cristo. It was a hard place to leave, Mike and Patty were amazing hosts! We spent a lot of our days lounging in the pool, going for surf sessions in town (El Transito), and exploring the 500-acre property. The property was to be a compound of houses, mostly investment properties, but after sour negotiations and poor developers the project has been stalled for years. The biggest let-down (for Mitch at least) was that there was supposed to be an 18-hole golf course on the property. The team pulled up to the spot where the clubhouse was to be built and shed a tear at the potential (well Mitch did). The dirt roads are mostly overgrown and only a handful of people currently actually live on-site. It was beautiful and fun to explore via motorcycle.
 
 
   {{< img src="El-Transito-Nicaragua-5.jpg" >}}

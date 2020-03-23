@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-02-14T21:12:45+00:00
 url: /mainland-mexico-part-6-oaxaca-and-playa-mazunte/
-image: https://eu-test.netlify.com/post/images/Santa-Cruz-5.jpg
+image: Santa-Cruz-5.jpg
 categories:
   - Mexico
   - Motorcycle

@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-11-28T15:11:25+00:00
 url: /punta-san-francisquito/
-image: https://eu-test.netlify.com/post/images/Punta-San-Francisquito-1.jpg
+image: Punta-San-Francisquito-1.jpg
 categories:
   - Mexico
   - Motorcycle

@@ -4,7 +4,7 @@ author: Tuan Bui
 type: post
 date: 2014-09-18T21:36:51+00:00
 url: /father-dyer-crystal-peak/
-image: https://eu-test.netlify.com/post/images/20140830-DSC00740.jpg
+image: 20140830-DSC00740.jpg
 categories:
   - Backpacks
   - Colorado
@@ -206,17 +206,6 @@ Once we got down we packed up and started for our decent back down the 4WD road.
 
       {{< img src="20140830-DSC00746.jpg" >}}
                 
-    
-
-
-
-
-
-
-Below is the hike summary for the trip. I have embedded in Strava and Endomondo profile below to provide detailed statistics.
-
-_Endomondo Profile_
-
 
 
 Cheers,  
