@@ -1,5 +1,5 @@
 baseurl = "https://eu-test.netlify.com"
-title = "elevation Upgrade"
+title = "Elevation Upgrade"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -8,13 +8,14 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
+timeout = 30000
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/peru_header_resized.jpg"
-  SEOTitle = "elevation Upgrade"
+  SEOTitle = "Elevation Upgrade"
   description = "Colorado backpacking blog"
   keyword = "blog, mountains, colorado, backpacking, hiking"
  # slogan = "blah slogan"
@@ -25,7 +26,7 @@ home = ["HTML", "RSS", "Algolia"]
   omit_categories = true
 
   # leancloud storage for page view counter
-  page_view_conter = true 
+  page_view_conter = false 
   leancloud_app_id = ""
   leancloud_app_key = ""
 
@@ -33,7 +34,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_search = true
   algolia_appId = "QM4X87GPNK"
   algolia_indexName = "elevationUpgrade-test"
-  algolia_apiKey = "5b5c5d76122e1f1372d203b2db11ea82"
+  algolia_apiKey = "9438f36d2e1be09145290e1594430caa"
 
   # Sidebar settings
   sidebar_about_description = "Software Developer, Open Source Enthusiast and Life Adventurer"
@@ -57,7 +58,7 @@ home = ["HTML", "RSS", "Algolia"]
 
   friends = false
   bookmarks = false
-  about_me = true
+  about_me = false
 
   # Include any custom CSS and/or JS files, url or relative to /static folder
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
