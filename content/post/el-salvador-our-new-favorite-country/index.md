@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-04-25T15:22:42+00:00
 url: /el-salvador-our-new-favorite-country/
-image: La-Perla-El-Salvador-4.jpg
+image: /el-salvador-our-new-favorite-country/La-Perla-El-Salvador-4.jpg
 categories:
   - El Salvador
   - Motorcycle

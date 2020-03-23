@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-11-16T22:07:40+00:00
 url: /special-edition-hiking-in-the-coffee-region/
-image: P1050220.jpg
+image: /special-edition-hiking-in-the-coffee-region/P1050220.jpg
 categories:
   - Colombia
   - Motorcycle
@@ -64,77 +64,77 @@ Coming into the descent we had two ideas 1) there was a great, flat, dry spot ab
 
 
 
-      {{< img src="P1050152.jpg" >}}
-                
-    
+{{< img src="P1050152.jpg" >}}
+        
 
 
 
-      {{< img src="P1050156.jpg" >}}
-                
-    
+
+{{< img src="P1050156.jpg" >}}
+        
 
 
 
-      {{< img src="P1050189.jpg" >}}
-                
-    
+
+{{< img src="P1050189.jpg" >}}
+        
 
 
 
-      {{< img src="P1050196.jpg" >}}
-                
-    
+
+{{< img src="P1050196.jpg" >}}
+        
 
 
 
-      {{< img src="P1050201.jpg" >}}
-                
-    
+
+{{< img src="P1050201.jpg" >}}
+        
 
 
 
-      {{< img src="P1050203.jpg" >}}
-                
-    
+
+{{< img src="P1050203.jpg" >}}
+        
 
 
 
-      {{< img src="P1050205.jpg" >}}
-                
-    
+
+{{< img src="P1050205.jpg" >}}
+        
 
 
 
-      {{< img src="P1050213.jpg" >}}
-                
-    
+
+{{< img src="P1050213.jpg" >}}
+        
 
 
 
-      {{< img src="P1050220.jpg" >}}
-                
-    
+
+{{< img src="P1050220.jpg" >}}
+        
 
 
 
-      {{< img src="P1050232.jpg" >}}
-                
-    
+
+{{< img src="P1050232.jpg" >}}
+        
 
 
 
-      {{< img src="P1050237.jpg" >}}
-                
-    
+
+{{< img src="P1050237.jpg" >}}
+        
 
 
 
-      {{< img src="P1050261.jpg" >}}
-                
-    
+
+{{< img src="P1050261.jpg" >}}
+        
 
 
 
-      {{< img src="P1050276.jpg" >}}
-               
+
+{{< img src="P1050276.jpg" >}}
+        

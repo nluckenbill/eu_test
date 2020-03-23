@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-03-20T18:57:23+00:00
 url: /guatemala-part-1-hello-rain-nice-to-meet-you/
-image: The-Road-to-Xela-1.jpg
+image: /guatemala-part-1-hello-rain-nice-to-meet-you/The-Road-to-Xela-1.jpg
 categories:
   - Guatemala
   - Motorcycle
@@ -16,9 +16,6 @@ tags:
   - Overland
   - XT225
 ---
-* * *
-
-
   The road was as slick as snot from the past three days of nonstop rain but it was time to man up and ride through it (plus we really had no other option as our lease was up on the AirBnB). The dirt had turned to a thick pasty clay providing zero traction for our tired and worn tires, but with a break in the rain and our gear (all slightly damp) loaded we decide to make a run for it…Guatemala here we come!! We had big things planned…Tikal, Semuc Champey and Zephyr Lodge, Spanish School in Xela, as well as some friends and family visiting…Guatemala, you better not disappoint!
 
 

@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-03-06T14:31:46+00:00
 url: /mainland-mexico-yucatan/
-image: Bacalar-4.jpg
+image: /mainland-mexico-yucatan/Bacalar-4.jpg
 categories:
   - Mexico
   - Motorcycle

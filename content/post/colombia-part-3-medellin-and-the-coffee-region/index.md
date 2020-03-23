@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-09-14T20:52:57+00:00
 url: /colombia-part-3-medellin-and-the-coffee-region/
-image: Pano-from-Steel-Horse-Filandia-Filandia-Colombia.jpg
+image: /colombia-part-3-medellin-and-the-coffee-region/Pano-from-Steel-Horse-Filandia-Filandia-Colombia.jpg
 categories:
   - Colombia
   - Motorcycle

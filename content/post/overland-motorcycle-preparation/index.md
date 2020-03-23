@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-10-12T04:13:57+00:00
 url: /overland-motorcycle-preparation/
-image: Wolf-Creek-Pass-2.jpg
+image: /overland-motorcycle-preparation/Wolf-Creek-Pass-2.jpg
 categories:
   - Motorcycle
   - Overland

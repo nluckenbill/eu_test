@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-01-12T14:17:14+00:00
 url: /exploring-guadalajara/
-image: 15388820_10154168254845318_1078637876_o.jpg
+image: /exploring-guadalajara/15388820_10154168254845318_1078637876_o.jpg
 categories:
   - Mexico
   - Motorcycle

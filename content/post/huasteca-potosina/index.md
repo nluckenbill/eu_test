@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-01-25T14:08:45+00:00
 url: /huasteca-potosina/
-image: Micos-River-Huasteca-8.jpg
+image: /huasteca-potosina/Micos-River-Huasteca-8.jpg
 categories:
   - Mexico
   - Motorcycle

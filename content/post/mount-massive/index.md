@@ -4,7 +4,7 @@ author: Tuan Bui
 type: post
 date: 2014-08-20T21:13:30+00:00
 url: /mount-massive/
-image: WP_20140810_018.jpg
+image: /mount-massive/WP_20140810_018.jpg
 categories:
   - Colorado
   - Day Hikes
@@ -54,8 +54,6 @@ As for my first post I will keep things shorter and details minimal. Potential f
 Cheers,  
 Tuan
  {{< img src="WP_20140810_018.jpg" >}}
-
-
  {{< img src="WP_20140810_001.jpg" >}}
  {{< img src="WP_20140810_011.jpg" >}}
  {{< img src="WP_20140810_004.jpg" >}}

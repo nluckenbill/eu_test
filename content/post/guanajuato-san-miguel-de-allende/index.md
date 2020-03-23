@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-01-16T14:56:46+00:00
 url: /guanajuato-san-miguel-de-allende/
-image: San-Miguel-de-Allende-9.jpg
+image: /guanajuato-san-miguel-de-allende/San-Miguel-de-Allende-9.jpg
 categories:
   - Mexico
   - Motorcycle

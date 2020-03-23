@@ -4,7 +4,7 @@ author: Tuan Bui
 type: post
 date: 2014-09-18T21:36:51+00:00
 url: /father-dyer-crystal-peak/
-image: 20140830-DSC00740.jpg
+image: /father-dyer-crystal-peak/20140830-DSC00740.jpg
 categories:
   - Backpacks
   - Colorado

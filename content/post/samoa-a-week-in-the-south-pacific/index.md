@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2015-12-01T04:42:31+00:00
 url: /samoa-a-week-in-the-south-pacific/
-image: Faimafili-Village-9.jpg
+image: /samoa-a-week-in-the-south-pacific/Faimafili-Village-9.jpg
 categories:
   - Samoa
   - South Pacific
@@ -146,6 +146,5 @@ Did I get to surf the incredible waves I’ve dreamt of? No (as no rental boards
 
 -Justin
 
-
-  {{< img src="Le-Valasi-Beach-1.jpg" >}}
+{{< img src="Le-Valasi-Beach-1.jpg" >}}
 		     

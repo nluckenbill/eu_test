@@ -4,7 +4,8 @@ author: Justin Lewis
 type: post
 date: -001-11-30T00:00:00+00:00
 draft: true
-image: Laguna-de-Cuicocha-Pano-Otavalo-Ecuador.jpg
+url: /ecuador-part-1-otavalo-volcan-cayambe/
+image: /ecuador-part-1-otavalo-volcan-cayambe/Laguna-de-Cuicocha-Pano-Otavalo-Ecuador.jpg
 categories:
   - Ecuador
   - Motorcycle

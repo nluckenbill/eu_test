@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-04-03T14:05:23+00:00
 url: /guatemala-part-2-volcano-addition/
-image: Acatenango-Hike-18.jpg
+image: /guatemala-part-2-volcano-addition/Acatenango-Hike-18.jpg
 categories:
   - Guatemala
   - Motorcycle

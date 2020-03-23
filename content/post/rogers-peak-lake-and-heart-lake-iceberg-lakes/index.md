@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2014-07-31T02:26:06+00:00
 url: /rogers-peak-lake-and-heart-lake-iceberg-lakes/
-image: Rogers-Peak-Lake-and-Heart-Lake-14.jpg
+image: /rogers-peak-lake-and-heart-lake-iceberg-lakes/Rogers-Peak-Lake-and-Heart-Lake-14.jpg
 categories:
   - Backpacks
   - Colorado
@@ -89,80 +89,76 @@ The hike down was smooth and solid as we breezed down and headed in search of so
 
 
 
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-2.jpg" >}}
+          
 
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-2.jpg" >}}
-                
-    
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-4.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-4.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-6.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-8.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-8.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-9.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-9.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-11.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-12.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-13.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Pass-Lake-Pano.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Pass-Lake-Pano.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-14.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-14.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-16.jpg" >}}
-                
-    
+
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
+          
 
 
 
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-17.jpg" >}}
-                
-    
 
-
-
-      {{< img src="Rogers-Peak-Lake-and-Heart-Lake-18.jpg" >}}
+{{< img src="Rogers-Peak-Lake-and-Heart-Lake-18.jpg" >}}

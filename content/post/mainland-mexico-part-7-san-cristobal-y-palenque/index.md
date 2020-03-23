@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-02-27T23:52:04+00:00
 url: /mainland-mexico-part-7-san-cristobal-y-palenque/
-image: Lagos-de-Montebello-2.jpg
+image: /mainland-mexico-part-7-san-cristobal-y-palenque/Lagos-de-Montebello-2.jpg
 categories:
   - Mexico
   - Motorcycle

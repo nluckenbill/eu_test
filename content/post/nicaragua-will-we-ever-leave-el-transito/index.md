@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-06-07T20:27:47+00:00
 url: /nicaragua-will-we-ever-leave-el-transito/
-image: Isla-Ometepe-Nicaragua-8.jpg
+image: /nicaragua-will-we-ever-leave-el-transito/Isla-Ometepe-Nicaragua-8.jpg
 categories:
   - Motorcycle
   - Nicaragua

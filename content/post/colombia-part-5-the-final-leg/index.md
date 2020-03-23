@@ -3,8 +3,8 @@ title: 'Colombia Part 5: The Final Leg'
 author: Justin Lewis
 type: post
 date: -001-11-30T00:00:00+00:00
-draft: true
-image: Mocoa-to-San-Francisco-Colombia-20.jpg
+url: /colombia-part-5-the-final-leg/
+image: /colombia-part-5-the-final-leg/Mocoa-to-San-Francisco-Colombia-20.jpg
 categories:
   - Colombia
   - Motorcycle

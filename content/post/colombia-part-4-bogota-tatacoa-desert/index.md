@@ -3,7 +3,8 @@ title: 'Colombia Part 4: Bogota and the Tatacoa Desert'
 author: Justin Lewis
 type: post
 date: 2017-11-30T20:04:28+00:00
-image: "Tatacoa-Desert-Colombia-2.jpg"
+url: /colombia-part-4-bogota-tatacoa-desert/
+image: /colombia-part-4-bogota-tatacoa-desert/Tatacoa-Desert-Colombia-2.jpg
 categories:
   - Colombia
   - Motorcycle

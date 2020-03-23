@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2015-06-13T06:31:21+00:00
 url: /baja-the-adventure-of-la-tortuga-y-amigos/
-image: Baja-Moto-Trip-49.jpg
+image: /baja-the-adventure-of-la-tortuga-y-amigos/Baja-Moto-Trip-49.jpg
 categories:
   - Central America
   - Motorcycle

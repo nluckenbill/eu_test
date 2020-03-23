@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2017-03-13T15:00:32+00:00
 url: /belize-a-vacation-from-our-vacation/
-image: Caye-Caulker-19.jpg
+image: /belize-a-vacation-from-our-vacation/Caye-Caulker-19.jpg
 categories:
   - Belize
   - Motorcycle

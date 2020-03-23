@@ -8,7 +8,7 @@ googleAnalytics = ""
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 hasCJKLanguage = true
-timeout = 30000
+timeout = 100000
 
 [outputs]
 home = ["HTML", "RSS", "Algolia"]

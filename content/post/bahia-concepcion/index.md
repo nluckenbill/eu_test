@@ -4,7 +4,7 @@ author: Justin Lewis
 type: post
 date: 2016-12-04T20:56:15+00:00
 url: /bahia-concepcion/
-image: Playa-Santispak-Bahia-Concepcion-10.jpg
+image: /bahia-concepcion/Playa-Santispak-Bahia-Concepcion-10.jpg
 categories:
   - Mexico
   - Motorcycle
