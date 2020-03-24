@@ -37,8 +37,7 @@ home = ["HTML", "RSS", "Algolia"]
   algolia_apiKey = "9438f36d2e1be09145290e1594430caa"
 
   # Sidebar settings
-  sidebar_about_description = "Adventure bros"
-  #sidebar_avatar = "img/avatar-zhaohuabing.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
+  sidebar_about_description = "Nate and Justin, adventure nerds."
   sidebar_avatar = "img/tent_mates.jpg"      # use absolute URL, seeing it's used in both `/` and `/about/`
 
   featured_tags = false 
@@ -64,17 +63,17 @@ home = ["HTML", "RSS", "Algolia"]
   #custom_css = ["css/lightbox.css", "https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.2/animate.min.css", "css/main.css"]
   #custom_js = ["js/lightbox.js", "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js", "js/main.js"]
   custom_css = "css/elevationUpgrade.css"
-  
+
   [params.social]
   rss            = true 
-  email          = "youremail@gmail.com"
+#  email          = "youremail@gmail.com"
   #facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
   #twitter       = "full profile url in twitter"
-  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
+#  linkedin       = "https://www.linkedin.com/in/yourlinkedinid"
 #  stackoverflow  = "https://stackoverflow.com/users/yourstackoverflowid"
-  #instagram     = "full profile url in instagram"
-  github         = "https://github.com/yourgithub"
+  instagram     = "https://www.instagram.com/elevationupgrade/"
+#  github         = "https://github.com/yourgithub"
 #  wechat         = "your wechat qr code image"
 #  medium         = "full profile url in medium"
   #pinterest     = "full profile url in pinterest"
@@ -102,9 +101,14 @@ home = ["HTML", "RSS", "Algolia"]
   title = "unsplash"
   href = "https://unsplash.com"
   
-  #[[params.addtional_menus]]
-  #title =  "BOOKS"
-  #href =  "/top/books/"
+  [[params.addtional_menus]]
+  title =  "BACKPACKS"
+  href =  "/categories/backpacks/"
+
+  [[params.addtional_menus]]
+  title =  "MOTORCYCLE"
+  href =  "/categories/motorcycle/"
+
   [[params.addtional_menus]]
   title =  "ABOUT"
   href =  "/top/about/"
