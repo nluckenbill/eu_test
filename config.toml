@@ -1,5 +1,5 @@
 baseurl = "https://eu-test.netlify.com"
-title = "Elevation Upgrade"
+title = "elevation Upgrade"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,8 +15,8 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/peru_header_resized.jpg"
-  SEOTitle = "Elevation Upgrade"
-  description = "Colorado backpacking blog"
+  SEOTitle = "elevationupgrade.com"
+  description = "Colorado backpacking blog and adventure reports from around the world"
   keyword = "blog, mountains, colorado, backpacking, hiking"
  # slogan = "blah slogan"
   showtoc = false
